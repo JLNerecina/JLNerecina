@@ -11,12 +11,12 @@ I am also quick-witted and dignified, with a leadership mindset, does not withdr
 <a href= ""> <a/>
 
 <br><h2>Skill Sets</h2>
-Programming: Java, JavaScript
-Databases: IBM DB2 Cloud
-Tools: Lucidchart, VS Code, Eclipse, HTML
+<br>Programming: Java, JavaScript
+<br>Databases: IBM DB2 Cloud
+<br>Tools: Lucidchart, VS Code, Eclipse, HTML
 
 <h2> Let's Connect! 👇</h2>
-LinkedIn: 
-Contact Number: 09055926741
-Email: johnliannerecina@gmail.com
+<br>LinkedIn: 
+<br>Contact Number: 09055926741
+<br>Email: johnliannerecina@gmail.com
 
