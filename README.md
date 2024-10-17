@@ -11,12 +11,12 @@ I am also quick-witted and dignified, with a leadership mindset, does not withdr
 <a href= ""> <a/>
 
 <br><h2>Skill Sets</h2>
-<br>Programming: Java, JavaScript
+Programming: Java, JavaScript
 <br>Databases: IBM DB2 Cloud
 <br>Tools: Lucidchart, VS Code, Eclipse, HTML
 
 <h2> Let's Connect! 👇</h2>
-<br>LinkedIn: 
+LinkedIn: 
 <br>Contact Number: 09055926741
 <br>Email: johnliannerecina@gmail.com
 
