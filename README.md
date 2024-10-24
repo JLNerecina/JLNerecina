@@ -1,6 +1,6 @@
 # John Lian R. Nerecina - Profile
 
-![Profile Picture](photo_2024-07-29_00-52-26.jpg)
+<img src="photo_2024-07-29_00-52-26.jpg" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;">
 
 *Designer | Web Developer | Database Specialist*
 
