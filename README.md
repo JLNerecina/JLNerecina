@@ -1,8 +1,8 @@
-# John Lian R. Nerecina - Profile
-
-<img src="photo_2024-07-29_00-52-26.jpg" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px; border: 4px solid #0066cc;">
-
-*Designer | Web Developer | Database Specialist*
+<div align="center">
+    <img src="photo_2024-07-29_00-52-26.jpg" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px; border: 4px solid #0066cc;">
+    <h1>John Lian R. Nerecina</h1>
+    <em>Designer | Web Developer | Database Specialist</em>
+</div>
 
 ## About Me
 
