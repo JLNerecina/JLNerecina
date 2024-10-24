@@ -4,7 +4,7 @@
     <em>Designer | Web Developer | Database Specialist</em>
 </div>
 
-## About Me
+## 👨‍🎓About Me
 
 Hello! I'm **John Lian R. Nerecina**, a multidisciplinary designer and developer with expertise in creating stunning resumes, journals, books, presentations, and web designs. I also have strong experience in video editing and database design, offering a unique blend of creativity and technical skills.
 
