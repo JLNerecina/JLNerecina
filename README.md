@@ -63,6 +63,7 @@ Crafted custom-designed resumes tailored to specific client needs, ensuring both
 
 ## Contact
 
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 **Email:** [johnliannerecina@gmail.com](johnliannerecina@gmail.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/john-lian-nerecina-042744286](linkedin.com/in/john-lian-nerecina-042744286)
 - 🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
+- 📞 **Contact Number:** [09055926741](09055926741)
