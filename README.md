@@ -65,5 +65,5 @@ Crafted custom-designed resumes tailored to specific client needs, ensuring both
 
 - 📧 **Email:** johnliannerecina@gmail.com
 - 🔗 **LinkedIn:** [linkedin.com/in/john-lian-nerecina-042744286](https://www.linkedin.com/in/john-lian-nerecina-042744286/)
-- 🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
+- 🌐 **Portfolio:** https://cjayaniceren.github.io/TestAResume/ 
 - 📞 **Contact Number:** 09055926741
