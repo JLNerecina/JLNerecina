@@ -10,13 +10,13 @@ Hello! I'm **John Lian R. Nerecina**, a multidisciplinary designer and developer
 
 I enjoy solving complex design problems and delivering high-quality, aesthetically pleasing solutions for clients and businesses alike.
 
-## Skills
+## 💡Skills
 
 - **Design:** Resume, Journal, Book Design, Web Design (HTML, CSS, JavaScript), Presentation Design
 - **Development:** Frontend Development (HTML, CSS, JavaScript), Database Design (SQL, Lucidchart)
 - **Video Editing:** Capcut, Filmora, Kinemaster, Canva
 
-## Experience
+## 🛠Experience
 
 ### Freelance Designer - Upwork.com
 *January 2023 - Present*
@@ -30,11 +30,11 @@ I enjoy solving complex design problems and delivering high-quality, aesthetical
 - Transcribed audio files for research projects, focusing on group discussions.
 - Delivered accurate and high-quality transcriptions under tight deadlines.
 
-## Education
+## 📖Education
 
 - **BS Computer Science**, New Era University, 2023-present
 
-## Certifications
+## 📜Certifications
 
 - **SQL and Relational Databases 101**
   - **Provider:** Cognitive Class
@@ -42,7 +42,7 @@ I enjoy solving complex design problems and delivering high-quality, aesthetical
   - **Certification ID:** a6edc39e5d2f45b3aa3892fcd4452ce1
   - [View Certificate](https://courses.cognitiveclass.ai/certificates/a6edc39e5d2f45b3aa3892fcd4452ce1)
 
-## Projects
+## 🔧Projects
 
 ### AC Promax Pest Control Services - Banner Design
 Designed an advertisement banner highlighting the company’s eco-friendly pest control services, utilizing eye-catching visuals and clear messaging.
@@ -53,7 +53,7 @@ Developed a personal portfolio website to showcase design and development projec
 ### Custom Resume Design for Clients
 Crafted custom-designed resumes tailored to specific client needs, ensuring both aesthetic appeal and functional layout for job applications.
 
-## Tools & Technologies
+## ⚙️Tools & Technologies
 
 - **Design:** Canva, Adobe Photoshop, Figma
 - **Video Editing:** Capcut, Filmora, Kinemaster
