@@ -19,7 +19,7 @@ I enjoy solving complex design problems and delivering high-quality, aesthetical
 ## 🛠Experience
 
 ### Freelance Designer - Upwork.com
-*January 2023 - Present*
+*October 2024 - Present*
 - Created custom designs for resumes, journals, and book layouts.
 - Designed websites for small businesses with responsive layouts and modern UI/UX standards.
 - Worked closely with clients to capture their brand identity through visual designs.
