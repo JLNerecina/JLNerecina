@@ -41,6 +41,12 @@ I enjoy solving complex design problems and delivering high-quality, aesthetical
   - **Issued:** October 23, 2024
   - **Certification ID:** a6edc39e5d2f45b3aa3892fcd4452ce1
   - [View Certificate](https://courses.cognitiveclass.ai/certificates/a6edc39e5d2f45b3aa3892fcd4452ce1)
+    
+- **Oracle Cloud Infrastructure 2024 Foundations Associate (1Z0-1085-24)** 
+  - **Provider:** Oracle University
+  - **Issued:** December 03, 2024
+  - **Certification ID:** 100981649OCI2024FNDCFA
+  - [View Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=360409B556FF2169F9AFDECC4CBCF6A9FE24E346BB722DF0FDEB236CAFFE50C3)
 
 ## 🔧Projects
 
