@@ -48,6 +48,12 @@ I enjoy solving complex design problems and delivering high-quality, aesthetical
   - **Certification ID:** 100981649OCI2024FNDCFA
   - [View Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=360409B556FF2169F9AFDECC4CBCF6A9FE24E346BB722DF0FDEB236CAFFE50C3)
 
+- **Oracle Cloud Infrastructure 2024 Data Foundations Associate (1Z0-1195-24)** 
+  - **Provider:** Oracle University
+  - **Issued:** December 10, 2024
+  - **Certification ID:** 100981649OCI2024FNDCFA
+  - [View Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=360409B556FF2169F9AFDECC4CBCF6A9FE24E346BB722DF0FDEB236CAFFE50C3)
+    
 ## 🔧Projects
 
 ### AC Promax Pest Control Services - Banner Design
