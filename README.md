@@ -57,8 +57,8 @@ I enjoy solving complex design problems and delivering high-quality, aesthetical
 - **Oracle Cloud Infrastructure 2024 AI Foundations Associate (1Z0-1122-24)** 
   - **Provider:** Oracle University
   - **Issued:** December 16, 2024
-  - **Certification ID:** 100981649OCI2024DCFA
-  - [View Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=360409B556FF2169F9AFDECC4CBCF6A94EAF1C227528E89EB6DCAF8E7CC80238)
+  - **Certification ID:** 100981649OCI24AICFA
+  - [View Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=ED2FBEE3685EF1E94C370387092C26262966E16DCF99176E051F4A1F7837BEB3&fbclid=IwY2xjawHM0MBleHRuA2FlbQIxMAABHdB3CDpoQcxwEWKpIyjXB44lZHBHEfZ__7FHJYEB8h1zm-jTbrC9jaeTtA_aem_8j_3nDJ4nIdkH8qUpSaYQA)
     
 ## 🔧Projects
 
