@@ -25,8 +25,8 @@ I enjoy solving complex design problems and delivering high-quality, aesthetical
 - Worked closely with clients to capture their brand identity through visual designs.
 - [View Profile Here](https://www.upwork.com/freelancers/~018bab50f508d422a2?mp_source=share)
 
-### Transcriber - Consumer Republiq
-*November 2023 - Present*
+### Part-Time Transcriber - Research Companies 
+*November 2023 - November 2024*
 - Transcribed audio files for research projects, focusing on group discussions.
 - Delivered accurate and high-quality transcriptions under tight deadlines.
 
