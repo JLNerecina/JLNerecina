@@ -18,6 +18,15 @@ I enjoy solving complex design problems and delivering high-quality, aesthetical
 
 ## 🛠Experience
 
+### Phone Call Interviewer - Consumer Republiq INC.
+*February 2025 - Present*
+- Conducts phone interviews to gather insights for research projects.
+- Engages with respondents professionally to ensure quality data collection.
+- Documents and summarizes key points from interviews for analysis.
+- Adheres to company guidelines and maintains confidentiality of collected information.
+- Works efficiently to meet research deadlines while ensuring accurate and reliable results.
+
+
 ### Freelance Designer - Upwork.com
 *October 2024 - Present*
 - Created custom designs for resumes, journals, and book layouts.
@@ -25,8 +34,8 @@ I enjoy solving complex design problems and delivering high-quality, aesthetical
 - Worked closely with clients to capture their brand identity through visual designs.
 - [View Profile Here](https://www.upwork.com/freelancers/~018bab50f508d422a2?mp_source=share)
 
-### Part-Time Transcriber - Research Companies 
-*November 2023 - November 2024*
+### Part-Time Transcriber - Consumer Republiq INC. 
+*November 2023 - Present*
 - Transcribed audio files for research projects, focusing on group discussions.
 - Delivered accurate and high-quality transcriptions under tight deadlines.
 
