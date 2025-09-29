@@ -13,7 +13,7 @@ I enjoy solving complex design problems and delivering high-quality, aesthetical
 ## 💡Skills
 
 - **Design:** Resume, Journal, Book Design, Web Design (HTML, CSS, JavaScript), Presentation Design
-- **Development:** Frontend Development (HTML, CSS, JavaScript), Database Design (SQL, Lucidchart)
+- **Development:** Frontend Development (HTML, CSS, JavaScript), Database Design (SQL, Lucidchart), Java
 - **Video Editing:** Capcut, Filmora, Kinemaster, Canva
 
 ## 🛠Experience
@@ -28,14 +28,14 @@ I enjoy solving complex design problems and delivering high-quality, aesthetical
 
 
 ### Freelance Designer - Upwork.com
-*October 2024 - Present*
+*October 2024 - January 2025
 - Created custom designs for resumes, journals, and book layouts.
 - Designed websites for small businesses with responsive layouts and modern UI/UX standards.
 - Worked closely with clients to capture their brand identity through visual designs.
 - [View Profile Here](https://www.upwork.com/freelancers/~018bab50f508d422a2?mp_source=share)
 
 ### Part-Time Transcriber - Consumer Republiq INC. 
-*November 2023 - Present*
+*November 2023 - January 2025
 - Transcribed audio files for research projects, focusing on group discussions.
 - Delivered accurate and high-quality transcriptions under tight deadlines.
 
@@ -71,8 +71,7 @@ I enjoy solving complex design problems and delivering high-quality, aesthetical
     
 ## 🔧Projects
 
-### AC Promax Pest Control Services - Banner Design
-Designed an advertisement banner highlighting the company’s eco-friendly pest control services, utilizing eye-catching visuals and clear messaging.
+### Teleteraphy 
 
 ### Portfolio Website
 Developed a personal portfolio website to showcase design and development projects, using HTML, CSS, and JavaScript for a responsive and modern interface.
@@ -84,9 +83,9 @@ Crafted custom-designed resumes tailored to specific client needs, ensuring both
 
 - **Design:** Canva, Adobe Photoshop, Figma
 - **Video Editing:** Capcut, Filmora, Kinemaster
-- **Development:** HTML, CSS, JavaScript, Visual Studio Code
+- **Development:** Java, HTML, CSS, JavaScript, Visual Studio Code
 - **Database:** SQL, Lucidchart
-- **Collaboration:** Slack, Trello, GitHub
+- **Collaboration:** GitHub
 
 ## Contact
 
