@@ -26,14 +26,6 @@ I enjoy solving complex design problems and delivering high-quality, aesthetical
 - Adheres to company guidelines and maintains confidentiality of collected information.
 - Works efficiently to meet research deadlines while ensuring accurate and reliable results.
 
-
-### Freelance Designer - Upwork.com
-*October 2024 - January 2025
-- Created custom designs for resumes, journals, and book layouts.
-- Designed websites for small businesses with responsive layouts and modern UI/UX standards.
-- Worked closely with clients to capture their brand identity through visual designs.
-- [View Profile Here](https://www.upwork.com/freelancers/~018bab50f508d422a2?mp_source=share)
-
 ### Part-Time Transcriber - Consumer Republiq INC. 
 *November 2023 - January 2025
 - Transcribed audio files for research projects, focusing on group discussions.
@@ -42,6 +34,7 @@ I enjoy solving complex design problems and delivering high-quality, aesthetical
 ## 📖Education
 
 - **BS Computer Science**, New Era University, 2023-present
+- **DOST Scholar Batch 2023**
 
 ## 📜Certifications
 
