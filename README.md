@@ -18,7 +18,20 @@ I enjoy solving complex design problems and delivering high-quality, aesthetical
 
 ## 🛠Experience
 
-### Phone Call Interviewer - Consumer Republiq INC.
+### Quality Checker - COnsumer REpubliQ INC.
+*December 2025 - Present*
+**Respondent Verification (Back-Checking):** 
+-Conduct "callback" audits by contacting survey respondents to verify their participation.
+-Confirm the accuracy of key demographic data and specific responses provided during the initial interview.
+-Validate that ethical protocols and "Informed Consent" procedures were followed by the field team.
+**Data Management & Security:**
+-Securely handle sensitive Personal Identifiable Information (PII) of respondents in compliance with data privacy laws.
+-Maintain and update internal databases with the status of verified versus rejected entries.
+**Reporting & Documentation:**
+-Record and categorize all findings, errors, and discrepancies in a centralized tracking system.
+-Provide feedback reports to Field Managers to help improve interviewer performance and data collection methods.
+  
+### Phone Call Interviewer - COnsumer REpubliQ INC.
 *February 2025 - Present*
 - Conducts phone interviews to gather insights for research projects.
 - Engages with respondents professionally to ensure quality data collection.
@@ -26,7 +39,7 @@ I enjoy solving complex design problems and delivering high-quality, aesthetical
 - Adheres to company guidelines and maintains confidentiality of collected information.
 - Works efficiently to meet research deadlines while ensuring accurate and reliable results.
 
-### Part-Time Transcriber - Consumer Republiq INC. 
+### Part-Time Transcriber - COnsumer REpubliQ INC. 
 *November 2023 - January 2025
 - Transcribed audio files for research projects, focusing on group discussions.
 - Delivered accurate and high-quality transcriptions under tight deadlines.
