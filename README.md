@@ -20,16 +20,16 @@ I enjoy solving complex design problems and delivering high-quality, aesthetical
 
 ### Quality Checker - COnsumer REpubliQ INC.
 *December 2025 - Present*
-**Respondent Verification (Back-Checking):** 
--Conduct "callback" audits by contacting survey respondents to verify their participation.
--Confirm the accuracy of key demographic data and specific responses provided during the initial interview.
--Validate that ethical protocols and "Informed Consent" procedures were followed by the field team.
-**Data Management & Security:**
--Securely handle sensitive Personal Identifiable Information (PII) of respondents in compliance with data privacy laws.
--Maintain and update internal databases with the status of verified versus rejected entries.
-**Reporting & Documentation:**
--Record and categorize all findings, errors, and discrepancies in a centralized tracking system.
--Provide feedback reports to Field Managers to help improve interviewer performance and data collection methods.
+- **Respondent Verification (Back-Checking):** 
+- Conduct "callback" audits by contacting survey respondents to verify their participation.
+- Confirm the accuracy of key demographic data and specific responses provided during the initial interview.
+- Validate that ethical protocols and "Informed Consent" procedures were followed by the field team.
+- **Data Management & Security:**
+- Securely handle sensitive Personal Identifiable Information (PII) of respondents in compliance with data privacy laws.
+- Maintain and update internal databases with the status of verified versus rejected entries.
+- **Reporting & Documentation:**
+- Record and categorize all findings, errors, and discrepancies in a centralized tracking system.
+- Provide feedback reports to Field Managers to help improve interviewer performance and data collection methods.
   
 ### Phone Call Interviewer - COnsumer REpubliQ INC.
 *February 2025 - Present*
