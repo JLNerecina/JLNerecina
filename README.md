@@ -6,17 +6,26 @@
 
 ## 💼About Me
 
-Hello! I'm **John Lian R. Nerecina**, a multidisciplinary designer and developer with expertise in creating stunning resumes, journals, books, presentations, and web designs. I also have strong experience in video editing and database design, offering a unique blend of creativity and technical skills.
+Hello! I'm a versatile designer and developer skilled in:
 
-I enjoy solving complex design problems and delivering high-quality, aesthetically pleasing solutions for clients and businesses alike.
+- Front-end web development (HTML, CSS, JavaScript, PHP) using VS Code for responsive, dynamic sites
+- Software engineering with Java (OOP, design patterns: Factory, Singleton, Observer, Command, Decorator, Adapter, Facade; data structures, algorithms, console & desktop applications)
+- Full software development lifecycle (user stories, storyboards, wireframing, sprint planning, release management, agile project management)
+- Data analytics & visualization with R (dplyr, ggplot2, tidyverse, statistical analysis, reporting)
+- Database design & management (Lucidchart + SQL)
+- Professional resumes, journals, books, presentations, and web design
+- Video editing with Canva, CapCut, Filmora, and Kinemaster
+
+Passionate about delivering clean, high-quality work tailored to your needs—excited to collaborate!
 
 ## 💡Skills
 
 - **Design:** Resume, Journal, Book Design, Web Design (HTML, CSS, JavaScript), Presentation Design
 - **Development:** Frontend Development (HTML, CSS, JavaScript), Database Design (SQL, Lucidchart), Java
 - **Video Editing:** Capcut, Filmora, Kinemaster, Canva
+- **Soft Skills:** Research Interviewing, Interpersonal Skills
 
-## 🛠Experience
+## 🛠 Professional Experience
 
 ### Quality Checker - COnsumer REpubliQ INC.
 *December 2025 - Present*
@@ -75,21 +84,12 @@ I enjoy solving complex design problems and delivering high-quality, aesthetical
   - **Certification ID:** 100981649OCI24AICFA
   - [View Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=ED2FBEE3685EF1E94C370387092C26262966E16DCF99176E051F4A1F7837BEB3&fbclid=IwY2xjawHM0MBleHRuA2FlbQIxMAABHdB3CDpoQcxwEWKpIyjXB44lZHBHEfZ__7FHJYEB8h1zm-jTbrC9jaeTtA_aem_8j_3nDJ4nIdkH8qUpSaYQA)
     
-## 🔧Projects
-
-### Teleteraphy 
-
-### Portfolio Website
-Developed a personal portfolio website to showcase design and development projects, using HTML, CSS, and JavaScript for a responsive and modern interface.
-
-### Custom Resume Design for Clients
-Crafted custom-designed resumes tailored to specific client needs, ensuring both aesthetic appeal and functional layout for job applications.
 
 ## ⚙️Tools & Technologies
 
 - **Design:** Canva, Adobe Photoshop, Figma
 - **Video Editing:** Capcut, Filmora, Kinemaster
-- **Development:** Java, HTML, CSS, JavaScript, Visual Studio Code
+- **Development:** Java, HTML, CSS, JavaScript, PHP, Visual Studio Code
 - **Database:** SQL, Lucidchart
 - **Collaboration:** GitHub
 
@@ -97,5 +97,5 @@ Crafted custom-designed resumes tailored to specific client needs, ensuring both
 
 - 📧 **Email:** johnliannerecina@gmail.com
 - 🔗 **LinkedIn:** [linkedin.com/in/john-lian-nerecina-042744286](https://www.linkedin.com/in/john-lian-nerecina-042744286/)
-- 🌐 **Portfolio:** https://cjayaniceren.github.io/TestAResume/ 
+- 🌐 **Web Resume:** https://cjayaniceren.github.io/TestAResume/ 
 - 📞 **Contact Number:** 09055926741
