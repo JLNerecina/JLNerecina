@@ -150,13 +150,13 @@ Passionate about the full development lifecycle — from wireframing and agile p
     <h3 style="color: #c9d1d9; margin: 0 0 10px 0;">Contributions</h3>
     
     <img 
-      src="https://ghchart.rshah.org/JLNerecina" 
-      alt="JLNerecina's GitHub Contributions" 
+      src="https://activity-graph.herokuapp.com/graph?username=JLNerecina&theme=react-dark&hide_border=true&area=true&custom_title=&days=365" 
+      alt="Contribution Graph" 
       style="width: 100%; border-radius: 6px;"
     />
     
     <p style="color: #8b949e; font-size: 14px; margin-top: 10px;">
-      123 contributions in the last year (mostly in February 2026)
+      Recent activity spike in design patterns & web projects – 123 contributions last year
     </p>
   </div>
 </div>
