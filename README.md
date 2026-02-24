@@ -30,14 +30,14 @@
 
 <div align="center">
   <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=JLNerecina&show_icons=true&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=7200" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=JLNerecina&show_icons=true&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="180"/>
   
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLNerecina&layout=compact&theme=cobalt&hide_border=true&langs_count=8&cache_seconds=7200" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JLNerecina&layout=compact&theme=cobalt&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
-  <!-- Contribution Streak (already good) -->
+  <!-- Contribution Streak (keep as-is, it's working) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JLNerecina&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
@@ -128,11 +128,11 @@ Passionate about the full development lifecycle — from wireframing and agile p
 
 <div align="center">
   <p>
-    <strong>Email:</strong> johnliannerecina@gmail.com  
-    <strong>Phone:</strong> 0905 592 6741  
-    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/john-lian-nerecina-042744286/">linkedin.com/in/john-lian-nerecina</a>  
+    <strong>Email:</strong> johnliannerecina@gmail.com   
+    <strong>Phone:</strong> 0905 592 6741    
+    <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/john-lian-nerecina-042744286/">linkedin.com/in/john-lian-nerecina</a>   
     <strong>Web Resume:</strong> <a href="https://cjayaniceren.github.io/TestAResume/">cjayaniceren.github.io/TestAResume</a>
-  </p>
+  </p>  
   
   <br/>
   
