@@ -30,15 +30,15 @@
 
 <div align="center">
   <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JLNerecina&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="180"/>
   
   <!-- Top Languages Card (compact layout) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=onedark&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLNerecina&layout=compact&theme=onedark&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
   <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JLNerecina&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <br/>
