@@ -143,16 +143,22 @@ Passionate about the full development lifecycle — from wireframing and agile p
   <img src="https://img.shields.io/badge/Let's%20Collaborate!-0066cc?style=for-the-badge&logoColor=white" alt="Let's talk"/>
 </div>
 
-## 📅 Contribution Activity
+## 👾 Contributions
 
 <div align="center">
-  <img 
-    src="https://activity-graph.herokuapp.com/graph?username=JLNerecina&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" 
-    alt="Contribution Graph" 
-    style="border-radius: 10px; border: 2px solid #0066cc; box-shadow: 0 0 15px rgba(0, 102, 204, 0.4);"
-  />
-  
-  <br/><br/>
-  
-  <p><em>Recent activity focused on design patterns and web projects – consistent green squares incoming! 💻</em></p>
+  <div style="background-color: #0d1117; border: 2px solid #0066cc; border-radius: 10px; padding: 15px; box-shadow: 0 4px 15px rgba(0, 102, 204, 0.3); max-width: 800px; margin: 0 auto;">
+    <h3 style="color: #c9d1d9; margin: 0 0 10px 0;">Contributions</h3>
+    
+    <img 
+      src="https://ghchart.rshah.org/JLNerecina" 
+      alt="JLNerecina's GitHub Contributions" 
+      style="width: 100%; border-radius: 6px;"
+    />
+    
+    <p style="color: #8b949e; font-size: 14px; margin-top: 10px;">
+      123 contributions in the last year (mostly in February 2026)
+    </p>
+  </div>
 </div>
+
+<br/>
