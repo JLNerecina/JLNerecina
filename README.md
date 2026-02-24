@@ -134,12 +134,10 @@ Passionate about the full development lifecycle — from wireframing and agile p
 ## 📫 Let's Connect
 
 <div align="center">
-  <p>
-    - <strong>Email:</strong> johnliannerecina@gmail.com   
-    - <strong>Phone:</strong> 0905 592 6741    
-    - <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/john-lian-nerecina-042744286/">linkedin.com/in/john-lian-nerecina</a>   
-    - <strong>Web Resume:</strong> <a href="https://cjayaniceren.github.io/TestAResume/">cjayaniceren.github.io/TestAResume</a>
-  </p>  
+  <p><strong>Email:</strong> johnliannerecina@gmail.com</p>  
+  <p><strong>Phone:</strong> 0905 592 6741</p>    
+  <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/john-lian-nerecina-042744286/">linkedin.com/in/john-lian-nerecina</a></p>   
+  <p><strong>Web Resume:</strong> <a href="https://cjayaniceren.github.io/TestAResume/">cjayaniceren.github.io/TestAResume</a></p>  
   
   <br/>
   
