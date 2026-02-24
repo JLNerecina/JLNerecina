@@ -118,7 +118,6 @@ Passionate about the full development lifecycle — from wireframing and agile p
 | Oracle Cloud Infrastructure 2024 Data Foundations Associate (1Z0-1195-24) | Oracle University | Dec 2024      | [View Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=...)                   |
 | Oracle Cloud Infrastructure 2024 AI Foundations Associate (1Z0-1122-24) | Oracle University | Dec 2024      | [View Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=...)                  |
 
-*(Shortened long badge URLs for readability — use full links from your original README.)*
 
 ## ⚙️ Tools & Technologies
 
