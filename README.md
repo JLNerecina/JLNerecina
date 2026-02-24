@@ -142,3 +142,17 @@ Passionate about the full development lifecycle — from wireframing and agile p
   
   <img src="https://img.shields.io/badge/Let's%20Collaborate!-0066cc?style=for-the-badge&logoColor=white" alt="Let's talk"/>
 </div>
+
+## 📅 Contribution Activity
+
+<div align="center">
+  <img 
+    src="https://activity-graph.herokuapp.com/graph?username=JLNerecina&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" 
+    alt="Contribution Graph" 
+    style="border-radius: 10px; border: 2px solid #0066cc; box-shadow: 0 0 15px rgba(0, 102, 204, 0.4);"
+  />
+  
+  <br/><br/>
+  
+  <p><em>Recent activity focused on design patterns and web projects – consistent green squares incoming! 💻</em></p>
+</div>
