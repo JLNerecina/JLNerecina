@@ -32,7 +32,10 @@
 <div align="center">
   <!-- Main Stats Card -->
   <img src="https://github-readme-stats-fast.vercel.app/api?username=JLNerecina&show_icons=true&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="180"/>
-  
+
+</div>
+
+<div align="center">
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JLNerecina&layout=compact&theme=cobalt&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
 </div>
