@@ -106,7 +106,11 @@ Passionate about the full development lifecycle — from wireframing and agile p
 - **BS Computer Science**  
   New Era University  
   2023 – Present
-
+  
+- **Science, Technology, Engineering and Mathematics**  
+  Lamao National High School  
+  2021 - 2023
+  
 - **DOST Scholar** – Batch 2023
 
 ## 📜 Certifications
