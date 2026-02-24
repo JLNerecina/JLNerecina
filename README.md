@@ -45,6 +45,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JLNerecina&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <div style="background-color: #0d1117; border: 2px solid #0066cc; border-radius: 10px; padding: 20px; box-shadow: 0 4px 15px rgba(0, 102, 204, 0.3); max-width: 820px; margin: 0 auto;">
+    <h3 style="color: #c9d1d9; margin: 0 0 15px 0;">Contributions</h3>
+    <img 
+      src="https://github-readme-activity-graph.cyclic.app/graph?username=JLNerecina&theme=react-dark&hide_border=true&area=true&days=365" 
+      alt="JLNerecina's Contribution Graph" 
+      style="width: 100%; border-radius: 8px;"
+    />
+    <p style="color: #8b949e; font-size: 14px; margin: 12px 0 0 0;">
+      Recent activity spike in design patterns & web projects – ~124 contributions in the last year
+    </p>
+  </div>
+</div>
+
 <br/>
 
 
