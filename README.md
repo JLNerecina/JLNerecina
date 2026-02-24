@@ -22,6 +22,7 @@
   </a>
   <br/><br/>
   <img src="https://img.shields.io/badge/Phone-09055926741-blue?style=flat-square&logo=phone&logoColor=white" alt="Phone"/>
+
 </div>
 
 <br/>
@@ -39,6 +40,11 @@
 <div align="center">
   <!-- Contribution Streak (keep as-is, it's working) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JLNerecina&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <!-- Contribution Streak: Shows daily activity streak (works independently) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JLNerecina&theme=cobalt&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Contribution Streak" />
 </div>
 
 <br/>
