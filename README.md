@@ -146,17 +146,17 @@ Passionate about the full development lifecycle — from wireframing and agile p
 ## 👾 Contributions
 
 <div align="center">
-  <div style="background-color: #0d1117; border: 2px solid #0066cc; border-radius: 10px; padding: 15px; box-shadow: 0 4px 15px rgba(0, 102, 204, 0.3); max-width: 800px; margin: 0 auto;">
-    <h3 style="color: #c9d1d9; margin: 0 0 10px 0;">Contributions</h3>
+  <div style="background-color: #0d1117; border: 2px solid #0066cc; border-radius: 10px; padding: 20px; box-shadow: 0 4px 15px rgba(0, 102, 204, 0.3); max-width: 820px; margin: 0 auto;">
+    <h3 style="color: #c9d1d9; margin: 0 0 15px 0;">Contributions</h3>
     
     <img 
-      src="https://activity-graph.herokuapp.com/graph?username=JLNerecina&theme=react-dark&hide_border=true&area=true&custom_title=&days=365" 
-      alt="Contribution Graph" 
-      style="width: 100%; border-radius: 6px;"
+      src="https://github-readme-activity-graph.cyclic.app/graph?username=JLNerecina&theme=react-dark&hide_border=true&area=true&days=365" 
+      alt="JLNerecina's Contribution Graph" 
+      style="width: 100%; border-radius: 8px;"
     />
     
-    <p style="color: #8b949e; font-size: 14px; margin-top: 10px;">
-      Recent activity spike in design patterns & web projects – 123 contributions last year
+    <p style="color: #8b949e; font-size: 14px; margin: 12px 0 0 0;">
+      Recent activity spike in design patterns & web projects – ~124 contributions in the last year
     </p>
   </div>
 </div>
