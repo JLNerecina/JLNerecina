@@ -23,7 +23,7 @@
         </div>
       </td>
       <td width="45%" valign="middle" style="line-height: 0;">
-        <img src="https://www.collater.al/wp-content/uploads/2021/12/Waneella2.gif"
+        <img src="https://64.media.tumblr.com/4e71461309d8747e582bc235dc657601/5e7867eb9840a64e-9c/s1280x1920/bc03e5df39302af3382437871039a1930e18789d.gifv"
              width="100%" 
              style="display: block; border-radius: 0 10px 10px 0; border: 2px solid #0066cc; border-left: none; width: 100%; height: auto;" 
              alt="Cyberpunk Alleyway">
