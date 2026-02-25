@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/badge/Phone-09055926741-blue?style=flat-square&logo=phone&logoColor=white" alt="Phone"/>
       </td>
       <td width="45%" align="center" valign="middle">
-        <img src="https://i.gifer.com/PYhB.gif" width="100%" style="border-radius: 10px; border: 2px solid #0066cc;" alt="Cyberpunk Alleyway">
+        <img src="https://i.gifer.com/4S2u.gif" width="100%" style="border-radius: 10px; border: 2px solid #0066cc;" alt="Cyberpunk Alleyway">
       </td>
     </tr>
   </table>
