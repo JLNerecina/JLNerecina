@@ -35,6 +35,12 @@
 
 ## 📊 GitHub Stats
 
+
+<div align="center">
+  <!-- Contribution Streak (keep as-is, it's working) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JLNerecina&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
+
 <div align="center">
   <!-- Main Stats Card -->
   <img src="https://github-readme-stats-fast.vercel.app/api?username=JLNerecina&show_icons=true&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="180"/>
@@ -44,11 +50,6 @@
 <div align="center">
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JLNerecina&layout=compact&theme=cobalt&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-</div>
-
-<div align="center">
-  <!-- Contribution Streak (keep as-is, it's working) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JLNerecina&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <br/>
