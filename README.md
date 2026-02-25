@@ -167,3 +167,5 @@ Passionate about the full development lifecycle — from wireframing and agile p
   </div>
 </div>
 
+## Contribution Graph
+![Pacman Eating Commits](https://raw.githubusercontent.com/<JLNerecina>/<JLNerecina>/output/github-pacman-contribution-graph.svg)
