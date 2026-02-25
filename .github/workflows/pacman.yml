@@ -1,10 +1,11 @@
-name: generate pacman game
+name: Generate Pacman Game Blue Theme
 
 on:
-  schedule: # Run automatically every 24 hours
+  schedule:
+    # Run automatically every 24 hours
     - cron: "0 0 * * *"
   workflow_dispatch: # Allows manual triggering
-  push: # Runs on every push to the main branch
+  push:
     branches:
       - main
 
@@ -20,6 +21,17 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Dark & Blue Theme Configuration
+          background_color: "#0d1117"
+          color_empty: "#161b22"
+          color_low: "#08306b"
+          color_medium: "#2171b5"
+          color_high: "#6baed6"
+          color_max: "#deebf7"
+          pacman_color: "#58a6ff"
+          point_color: "#ffffff"
+          # Ensures the file is put in the folder the next step expects
+          output_dir: dist
 
       # Push the generated SVG to the output branch
       - name: push pacman-contribution-graph.svg to the output branch
