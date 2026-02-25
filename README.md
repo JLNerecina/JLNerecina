@@ -1,12 +1,13 @@
 <div align="center">
-  <table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <table border="0" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
     <tr>
-      <td width="55%" align="left" valign="top">
-        <img src="My Photo.jpg" alt="John Lian R. Nerecina" style="border-radius: 50%; width: 150px; height: 150px; border: 5px solid #0066cc; box-shadow: 0 0 25px rgba(0, 102, 204, 0.5);">
-        <h1 style="margin-top: 10px; margin-bottom: 0;">John Lian R. Nerecina</h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0066CC&center=false&vCenter=true&width=400&lines=Designer+%7C+Web+Developer;Database+Specialist;Full-Stack+Enthusiast" alt="Typing SVG" />
-        <p style="margin-top: 10px;"><em>Passionate about clean code, beautiful design, and reliable data solutions.</em></p>
-        <div style="display: block; margin-top: 15px;">
+      <td width="55%" align="center" valign="middle" style="padding: 20px;">
+        <img src="My Photo.jpg" alt="John Lian R. Nerecina" 
+             style="border-radius: 50%; width: 180px; height: 180px; object-fit: cover; border: 5px solid #0066cc; box-shadow: 0 0 25px rgba(0, 102, 204, 0.5); display: block; margin-left: auto; margin-right: auto;">
+        <h1 style="margin-top: 15px; border: none;">John Lian R. Nerecina</h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0066CC&center=true&vCenter=true&width=400&lines=Designer+%7C+Web+Developer;Database+Specialist;Full-Stack+Enthusiast" alt="Typing SVG" />
+        <p><em>Passionate about clean code, beautiful design, and reliable data solutions.</em></p>
+        <div style="margin-top: 15px;">
           <a href="mailto:johnliannerecina@gmail.com">
             <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
           </a>
@@ -21,8 +22,11 @@
           <img src="https://img.shields.io/badge/Phone-09055926741-blue?style=flat-square&logo=phone&logoColor=white" alt="Phone"/>
         </div>
       </td>
-      <td width="45%" align="center" valign="middle">
-        <img src="https://www.collater.al/wp-content/uploads/2021/12/Waneella.gif" width="100%" style="border-radius: 10px; border: 2px solid #0066cc; display: block;" alt="Cyberpunk Alleyway">
+      <td width="45%" valign="middle" style="line-height: 0;">
+        <img src="https://www.collater.al/wp-content/uploads/2021/12/Waneella.gif" 
+             width="100%" 
+             style="display: block; border-radius: 0 10px 10px 0; border: 2px solid #0066cc; border-left: none; width: 100%; height: auto;" 
+             alt="Cyberpunk Alleyway">
       </td>
     </tr>
   </table>
