@@ -168,5 +168,4 @@ Passionate about the full development lifecycle — from wireframing and agile p
 </div>
 
 ## Contribution Graph
-![Pacman Contribution Graph](https://raw.githubusercontent.com/JLNerecina/JLNerecina/output/pacman-contribution-graph.svg?v2
-)
+![Pacman Contribution Graph](https://raw.githubusercontent.com/JLNerecina/JLNerecina/output/pacman-contribution-graph.svg?v1)
