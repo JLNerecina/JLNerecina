@@ -167,8 +167,10 @@ Passionate about the full development lifecycle — from wireframing and agile p
   </div>
 </div>
 
-<br/>
-## 🦍 My Contribution Jungle
-![Donkey Kong Contributions](https://github.com/JLNerecina/JLNerecina/blob/master/github-metrics-donkey-kong.svg)
+# 🚀 My Coding Galaxy
+
+![Space Shooter](https://github-contribution-stats.vercel.app/api?username=JLNerecina&theme=tokyonight)
+
+[▶️ Click here to play the game with my commits!](https://gh-space-shooter.vercel.app/?user=JLNerecina)
 
 
