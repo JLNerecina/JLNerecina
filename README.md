@@ -167,10 +167,22 @@ Passionate about the full development lifecycle — from wireframing and agile p
   </div>
 </div>
 
-# 🚀 My Coding Galaxy
+## 👾 Contributions
 
-![Space Shooter](https://github-contribution-stats.vercel.app/api?username=JLNerecina&theme=tokyonight)
+<div align="center">
+  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?username=JLNerecina&color_snake=%230066cc&dots=%23161b22&bg=%230d1117" alt="Pacman Snake Graph" />
 
-[▶️ Click here to play the game with my commits!](https://gh-space-shooter.vercel.app/?user=JLNerecina)
+  <br/>
 
-
+  <div style="background-color: #0d1117; border: 2px solid #0066cc; border-radius: 10px; padding: 20px; box-shadow: 0 4px 15px rgba(0, 102, 204, 0.3); max-width: 820px; margin: 20px auto;">
+    <h3 style="color: #c9d1d9; margin: 0 0 15px 0;">Activity Overview</h3> 
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=JLNerecina&theme=react-dark&hide_border=true&area=true&days=365" 
+      alt="JLNerecina's Contribution Graph" 
+      style="width: 100%; border-radius: 8px;"
+    />
+    <p style="color: #8b949e; font-size: 14px; margin: 12px 0 0 0;">
+      Recent activity spike in design patterns & web projects – ~124 contributions in the last year
+    </p>
+  </div>
+</div>
