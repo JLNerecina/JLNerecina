@@ -12,6 +12,9 @@
         <a href="https://www.linkedin.com/in/john-lian-nerecina-042744286/">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
+        <a href="https://cjayaniceren.github.io/TestAResume/">
+          <img src="https://img.shields.io/badge/Web%20Resume-0066cc?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Resume"/>
+        </a>
         <br/><br/>
         <img src="https://img.shields.io/badge/Phone-09055926741-blue?style=flat-square&logo=phone&logoColor=white" alt="Phone"/>
       </td>
