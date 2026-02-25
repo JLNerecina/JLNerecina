@@ -1,0 +1,22 @@
+name: Donkey Kong Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}] # Runs at midnight every day
+  workflow_dispatch: # Allows you to run it manually
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics-donkey-kong.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          config_timezone: UTC 
+          # Retro Arcade Palette: Black, DK Brown, Barrel Orange, Mario Red
+          config_order: base.header, isocalendar
+          queries: |
+            {
+              "palette": ["#000000", "#8B4513", "#FF8C00", "#FF0000"]
+            }
