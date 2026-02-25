@@ -161,5 +161,7 @@ Passionate about the full development lifecycle — from wireframing and agile p
 </div>
 
 <br/>
+## 🦍 My Contribution Jungle
+![Donkey Kong Contributions](https://github.com/JLNerecina/JLNerecina/blob/master/github-metrics-donkey-kong.svg)
 
 
