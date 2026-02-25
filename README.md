@@ -18,7 +18,7 @@
       <td width="45%" align="center" valign="middle">
         <img src="https://cdnb.artstation.com/p/assets/images/images/051/523/515/original/killer-rabbit-media-cyberpunk-alleyway-animation-final.gif?1657501308" width="100%" style="border-radius: 10px; border: 2px solid #0066cc;" alt="Cyberpunk Alleyway">
         <br/>
-        <sub>Art by <a href="https://www.artstation.com/killerrabbitmedia">Killer Rabbit Media</a></sub>
+        <sub>Art by <a href="[https://www.artstation.com/killerrabbitmedia](https://cdnb.artstation.com/p/assets/images/images/066/149/065/original/killer-rabbit-media-chinese-alleyway-export.gif?1692171513)">Killer Rabbit Media</a></sub>
       </td>
     </tr>
   </table>
