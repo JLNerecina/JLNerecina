@@ -118,9 +118,9 @@ Passionate about the full development lifecycle — from wireframing and agile p
 | Certification                                      | Provider            | Issued         | ID / Link                                                                                           |
 |----------------------------------------------------|---------------------|----------------|-----------------------------------------------------------------------------------------------------|
 | SQL and Relational Databases 101                   | Cognitive Class     | Oct 2024      | [View Certificate](https://courses.cognitiveclass.ai/certificates/a6edc39e5d2f45b3aa3892fcd4452ce1) |
-| Oracle Cloud Infrastructure 2024 Foundations Associate (1Z0-1085-24) | Oracle University | Dec 2024      | [View Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=...)                   |
-| Oracle Cloud Infrastructure 2024 Data Foundations Associate (1Z0-1195-24) | Oracle University | Dec 2024      | [View Badge](https://catalog-education.oracle.com/pls/certview/sharebadge?id=...)                   |
-| Oracle Cloud Infrastructure 2024 AI Foundations Associate (1Z0-1122-24) | Oracle University | Dec 2024      | [View Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=...)                  |
+| Oracle Cloud Infrastructure 2024 Foundations Associate (1Z0-1085-24) | Oracle University | Dec 2024      | [View Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=360409B556FF2169F9AFDECC4CBCF6A9FE24E346BB722DF0FDEB236CAFFE50C3)                   |
+| Oracle Cloud Infrastructure 2024 Data Foundations Associate (1Z0-1195-24) | Oracle University | Dec 2024      | [View Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=360409B556FF2169F9AFDECC4CBCF6A94EAF1C227528E89EB6DCAF8E7CC80238)                   |
+| Oracle Cloud Infrastructure 2024 AI Foundations Associate (1Z0-1122-24) | Oracle University | Dec 2024      | [View Badge](https://catalog-education.oracle.com/ords/certview/sharebadge?id=ED2FBEE3685EF1E94C370387092C26262966E16DCF99176E051F4A1F7837BEB3)                  |
 
 
 ## ⚙️ Tools & Technologies
