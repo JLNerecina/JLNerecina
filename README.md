@@ -1,28 +1,27 @@
 <div align="center">
-  <img src="My Photo.jpg" alt="John Lian R. Nerecina" style="border-radius: 50%; width: 180px; height: 180px; border: 5px solid #0066cc; box-shadow: 0 0 25px rgba(0, 102, 204, 0.5);">
-  
-  <h1>John Lian R. Nerecina</h1>
-  
-  <!-- Optional typing animation - change words as you like -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0066CC&center=true&vCenter=true&width=435&lines=Designer+%7C+Web+Developer;Database+Specialist;Full-Stack+Enthusiast" alt="Typing SVG" />
-  
-  <br/>
-  
-  <p><em>Passionate about clean code, beautiful design, and reliable data solutions.</em></p>
-  
-  <!-- Quick contact badges -->
-  <a href="mailto:johnliannerecina@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/john-lian-nerecina-042744286/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://cjayaniceren.github.io/TestAResume/">
-    <img src="https://img.shields.io/badge/Web%20Resume-0066cc?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Resume"/>
-  </a>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Phone-09055926741-blue?style=flat-square&logo=phone&logoColor=white" alt="Phone"/>
-
+  <table border="0">
+    <tr>
+      <td width="55%" align="left" valign="top">
+        <img src="My Photo.jpg" alt="John Lian R. Nerecina" style="border-radius: 50%; width: 150px; height: 150px; border: 5px solid #0066cc; box-shadow: 0 0 25px rgba(0, 102, 204, 0.5);">
+        <h1>John Lian R. Nerecina</h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0066CC&center=false&vCenter=true&width=400&lines=Designer+%7C+Web+Developer;Database+Specialist;Full-Stack+Enthusiast" alt="Typing SVG" />
+        <p><em>Passionate about clean code, beautiful design, and reliable data solutions.</em></p>
+        <a href="mailto:johnliannerecina@gmail.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        </a>
+        <a href="https://www.linkedin.com/in/john-lian-nerecina-042744286/">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+        <br/><br/>
+        <img src="https://img.shields.io/badge/Phone-09055926741-blue?style=flat-square&logo=phone&logoColor=white" alt="Phone"/>
+      </td>
+      <td width="45%" align="center" valign="middle">
+        <img src="https://cdnb.artstation.com/p/assets/images/images/051/523/515/original/killer-rabbit-media-cyberpunk-alleyway-animation-final.gif?1657501308" width="100%" style="border-radius: 10px; border: 2px solid #0066cc;" alt="Cyberpunk Alleyway">
+        <br/>
+        <sub>Art by <a href="https://www.artstation.com/killerrabbitmedia">Killer Rabbit Media</a></sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
