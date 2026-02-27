@@ -77,21 +77,37 @@
 
 ---
 
-## 💡 Skills
+## 💡 Tech Stack & Expertise
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,vscode,git,github,figma,ps,canva,r,mysql&theme=light&perline=7" alt="Skills Icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,mysql,r,vscode,git,github,figma,ps,canva&theme=dark&perline=7" alt="Skills Icons"/>
 </div>
 
 <br/>
 
-- **Design** — Resume / Journal / Book Layout, Web UI, Presentations (Canva, Figma, Photoshop)
-- **Web Development** — HTML, CSS, JavaScript, PHP, Responsive & Dynamic Sites (VS Code)
-- **Software Engineering** — Java (OOP, Design Patterns: Factory, Singleton, Observer, Command, Decorator, Adapter, Facade), Data Structures, Algorithms, Console & Desktop Apps
-- **Data & Analytics** — R (dplyr, ggplot2, tidyverse), Statistical Analysis, Reporting & Visualization
-- **Database** — SQL, Relational Design, ER Diagrams (Lucidchart)
-- **Video Editing** — CapCut, Filmora, KineMaster, Canva
-- **Soft Skills** — Research Interviewing, Agile Project Management, Interpersonal Communication
+### 🌌 Proficiency Overview
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-005C97?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-005C97?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/PHP-4F5D95?style=for-the-badge&logo=php&logoColor=white) |
+| **Software Eng.** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) `OOP` `Design Patterns` `Data Structures` `Algorithms` |
+| **Data Science** | ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) `tidyverse` `ggplot2` `Statistical Analysis` |
+| **Design & Media** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-005C97?style=for-the-badge&logo=mysql&logoColor=white) `ER Diagrams` `Relational Design` |
+
+---
+
+### 🛠️ Strategic Skillset
+
+> [!TIP]
+> **Engineering Mindset:** Specialized in Design Patterns including **Factory**, **Singleton**, **Observer**, and **Facade** to build scalable, clean software architectures.
+
+* **⚡ Rapid Design:** Expertise in high-fidelity UI/UX (Figma) and professional print layouts (Resume/Books).
+* **📊 Data-Driven:** Crafting insights using R for advanced reporting and visualization.
+* **🎬 Content Creation:** Video post-production via CapCut, Filmora, and KineMaster.
+* **🤝 Management:** Agile workflow enthusiast with a focus on interpersonal communication and research interviewing.
+
+---
 
 ## 🛠 Professional Experience
 
