@@ -210,6 +210,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
+<div align="center">
 ## 📫 Let's Connect
 
 Connect with me for collaborations or inquiries!
