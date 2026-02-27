@@ -91,9 +91,9 @@
 
 <br/>
 
-<div align="center">
-
 ### 🌌 Proficiency Overview
+
+<div align="center">
 
 | Category | Tools & Technologies |
 | :--- | :--- |
