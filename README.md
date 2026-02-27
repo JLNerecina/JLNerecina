@@ -210,9 +210,10 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-<div align="center">
 ## 📫 Let's Connect
 
+<div align="center">
+  
 Connect with me for collaborations or inquiries!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnliannerecina@gmail.com)
