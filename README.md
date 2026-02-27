@@ -210,24 +210,39 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
+<div align="center">
+
 ## ⚙️ Tools & Technologies
 
-- **Design & Creative:** Canva, Adobe Photoshop, Figma  
-- **Video Editing:** CapCut, Filmora, KineMaster  
-- **Development:** Java, HTML, CSS, JavaScript, PHP, Visual Studio Code  
-- **Database:** SQL, Lucidchart (ERD)  
-- **Others:** Git/GitHub, R (tidyverse stack)
+| Category | Tech Stack |
+| :--- | :--- |
+| **🎨 Creative** | `Figma` `Photoshop` `Canva` |
+| **🎬 Video** | `CapCut` `Filmora` `KineMaster` |
+| **💻 Dev** | `Java` `JavaScript` `PHP` `HTML/CSS` `VS Code` |
+| **💾 Data** | `SQL` `Lucidchart (ERD)` `R (Tidyverse)` |
+| **🚀 Workflow** | `Git` `GitHub` `Agile` |
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
 ## 📫 Let's Connect
 
-<div align="center">
-  <p><strong>Email:</strong> johnliannerecina@gmail.com</p>  
-  <p><strong>Phone:</strong> 0905 592 6741</p>    
-  <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/john-lian-nerecina-042744286/">linkedin.com/in/john-lian-nerecina</a></p>   
-  <p><strong>Web Resume:</strong> <a href="https://cjayaniceren.github.io/TestAResume/">cjayaniceren.github.io/TestAResume</a></p>  
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Let's%20Collaborate!-0066cc?style=for-the-badge&logoColor=white" alt="Let's talk"/>
-</div>
+Connect with me for collaborations or inquiries!
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnliannerecina@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-lian-nerecina-042744286/)
+[![Portfolio](https://img.shields.io/badge/Web_Resume-005C97?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cjayaniceren.github.io/TestAResume/)
+
+<br/>
+
+> [!TIP]
+> **Direct Line:** 📞 0905 592 6741
+
+<br/>
+
+<img src="https://img.shields.io/badge/Let's%20Collaborate!-005C97?style=for-the-badge&logo=github&logoColor=white" alt="Let's talk"/>
+
+</div>
