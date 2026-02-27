@@ -170,17 +170,26 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-## 📖 Education
+<div align="center">
 
-- **BS Computer Science**  
-  New Era University  
-  2023 – Present
-  
-- **Science, Technology, Engineering and Mathematics**  
-  Lamao National High School  
-  2021 - 2023
-  
-- **DOST Scholar** – Batch 2023
+## 📖 Academic Journey & Honors
+
+| Degree / Program | Institution | Timeline |
+| :--- | :--- | :--- |
+| **B.S. Computer Science** | ![NEU](https://img.shields.io/badge/New_Era_University-005C97?style=flat-square) | 2023 – Present |
+| **STEM Strand** | ![LNHS](https://img.shields.io/badge/Lamao_National_High_School-005C97?style=flat-square) | 2021 – 2023 |
+
+<br/>
+
+> [!TIP]
+> ### 🎓 Distinguished Achievement
+> **DOST Scholar (Batch 2023)** > *Recognized by the Department of Science and Technology for academic excellence in the field of science and engineering.*
+
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
 ## 📜 Certifications
 
