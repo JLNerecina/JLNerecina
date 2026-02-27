@@ -40,7 +40,9 @@
 
 <br/>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
 ## 📊 GitHub Analytics
 
@@ -75,7 +77,9 @@
 
 ![Pacman Contribution Graph](https://raw.githubusercontent.com/JLNerecina/JLNerecina/output/pacman-contribution-graph.svg?v1)
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
 ## 💡 Tech Stack & Expertise
 
@@ -115,7 +119,9 @@
 * **🎬 Content Creation:** Video post-production via CapCut, Filmora, and KineMaster.
 * **🤝 Management:** Agile workflow enthusiast with a focus on interpersonal communication and research interviewing.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
 <div align="center">
 
@@ -163,8 +169,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
-
----
 
 ## 📖 Education
 
