@@ -1,28 +1,37 @@
 <div align="center">
-  <table border="0" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
+  <table border="0" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; background-color: #0a0a0a; border-radius: 10px; border: 1px solid #0066cc;">
     <tr>
-      <td width="55%" align="center" valign="middle" style="padding: 20px;">
+      <td width="55%" align="center" valign="middle" style="padding: 30px;">
         <img src="My Photo.jpg" alt="John Lian R. Nerecina" 
-             style="border-radius: 50%; width: 180px; height: 180px; object-fit: cover; border: 5px solid #0066cc; box-shadow: 0 0 25px rgba(0, 102, 204, 0.5); display: block; margin-left: auto; margin-right: auto;">
-        <h1 style="margin-top: 15px; border: none; color: #0066cc;">John Lian R. Nerecina</h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0066CC&center=true&vCenter=true&width=400&lines=Designer+%7C+Web+Developer;Database+Specialist;Full-Stack+Enthusiast" alt="Typing SVG" />
-        <p><em>Passionate about clean code, beautiful design, and reliable data solutions.</em></p>
-        <div style="margin-top: 15px;">
+             style="border-radius: 50%; width: 160px; height: 160px; object-fit: cover; border: 4px solid #0066cc; box-shadow: 0 0 20px rgba(0, 102, 204, 0.4);">
+        <h1 style="margin-top: 15px; border: none; color: #0066cc; font-size: 2.2em;">John Lian R. Nerecina</h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0066CC&center=true&vCenter=true&width=400&lines=Designer+%7C+Web+Developer;Database+Specialist;Full-Stack+Enthusiast" alt="Typing SVG" /> 
+        <hr style="width: 80%; border: 0.5px solid #333; margin: 20px 0;">
+        <p align="center" style="padding: 0 20px; line-height: 1.6;">
+          I am a <b>Designer</b>, <b>Web Developer</b>, and <b>Database Specialist</b> focused on delivering high-quality, user-centered solutions. I turn complex ideas into responsive websites and robust applications.
+        </p>
+        <div style="margin: 15px 0;">
+          <a href="#"><img src="https://img.shields.io/badge/UI%2FUX-0066cc?style=for-the-badge&logo=figma&logoColor=white" height="25"/></a>
+          <a href="#"><img src="https://img.shields.io/badge/Web_Dev-0A0A0A?style=for-the-badge&logo=javascript&logoColor=0066cc" height="25"/></a>
+          <a href="#"><img src="https://img.shields.io/badge/Database-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=0066cc" height="25"/></a>
+          <a href="#"><img src="https://img.shields.io/badge/Backend-0066cc?style=for-the-badge&logo=java&logoColor=white" height="25"/></a>
+        </div>
+        <div style="margin-top: 20px;">
           <a href="mailto:johnliannerecina@gmail.com">
-            <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=0066cc" alt="Email"/>
+            <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=0066cc" />
           </a>
           <a href="https://www.linkedin.com/in/john-lian-nerecina-042744286/">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
           </a>
           <a href="https://cjayaniceren.github.io/TestAResume/">
-            <img src="https://img.shields.io/badge/Web%20Resume-0066cc?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Resume"/>
+            <img src="https://img.shields.io/badge/Web%20Resume-0066cc?style=for-the-badge&logo=google-chrome&logoColor=white" />
           </a>
         </div>
       </td>
-      <td width="45%" valign="middle" style="line-height: 0;">
+      <td width="45%" valign="middle" style="line-height: 0; padding: 0;">
         <img src="https://64.media.tumblr.com/2d71c754e9be4e5e5348697f509de108/bace307b0f59e3fc-8f/s1280x1920/24f1ce9126450afff519d1733f7c1c64ef8a184c.gifv"
              width="100%" 
-             style="display: block; border-radius: 0 10px 10px 0; border: 2px solid #0066cc; border-left: none; width: 100%; height: auto;" 
+             style="display: block; border-radius: 0 10px 10px 0; width: 100%; height: 600px; object-fit: cover;" 
              alt="Cyberpunk Alleyway">
       </td>
     </tr>
@@ -30,28 +39,6 @@
 </div>
 
 <br/>
-
----
-
-## 💼 About Me
-
-<table align="center" border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>👋 Versatile Creative Technologist</h3>
-      I am a <b>Designer</b>, <b>Web Developer</b>, and <b>Database Specialist</b> focused on delivering high-quality, user-centered solutions. I enjoy turning complex ideas into responsive websites, robust Java applications, and professional documentation.
-      <br/><br/>
-      ⚡ <b>Focus:</b> Full-lifecycle development — from wireframing to pixel-perfect deployment.
-    </td>
-    <td width="40%" valign="center" align="center">
-      <a href="#"><img src="https://img.shields.io/badge/UI%2FUX-0066cc?style=for-the-badge&logo=figma&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Web_Dev-0A0A0A?style=for-the-badge&logo=javascript&logoColor=0066cc" /></a>
-      <br/>
-      <a href="#"><img src="https://img.shields.io/badge/Database-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=0066cc" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/Backend-0066cc?style=for-the-badge&logo=java&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
 
 ---
 
