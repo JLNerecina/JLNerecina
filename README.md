@@ -59,6 +59,9 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JLNerecina&bg_color=0a0a0a&color=005bbb&line=005bbb&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
+<p style="color: #8b949e; font-size: 14px; margin: 12px 0 0 0;">
+      Recent activity spike in design patterns & web projects – ~124 contributions in the last year
+</p>
 
 ---
 
@@ -157,22 +160,6 @@ Passionate about the full development lifecycle — from wireframing and agile p
   <br/>
   
   <img src="https://img.shields.io/badge/Let's%20Collaborate!-0066cc?style=for-the-badge&logoColor=white" alt="Let's talk"/>
-</div>
-
-## 👾 Contributions
-
-<div align="center">
-  <div style="background-color: #0d1117; border: 2px solid #0066cc; border-radius: 10px; padding: 20px; box-shadow: 0 4px 15px rgba(0, 102, 204, 0.3); max-width: 820px; margin: 0 auto;">
-    <h3 style="color: #c9d1d9; margin: 0 0 15px 0;">Contributions</h3> 
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=JLNerecina&theme=react-dark&hide_border=true&area=true&days=365" 
-      alt="JLNerecina's Contribution Graph" 
-      style="width: 100%; border-radius: 8px;"
-    />
-    <p style="color: #8b949e; font-size: 14px; margin: 12px 0 0 0;">
-      Recent activity spike in design patterns & web projects – ~124 contributions in the last year
-    </p>
-  </div>
 </div>
 
 ## Contribution Graph
