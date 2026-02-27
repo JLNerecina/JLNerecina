@@ -63,6 +63,9 @@
       Recent activity spike in design patterns & web projects – ~124 contributions in the last year
 </p>
 
+
+![Pacman Contribution Graph](https://raw.githubusercontent.com/JLNerecina/JLNerecina/output/pacman-contribution-graph.svg?v1)
+
 ---
 
 
@@ -162,5 +165,3 @@ Passionate about the full development lifecycle — from wireframing and agile p
   <img src="https://img.shields.io/badge/Let's%20Collaborate!-0066cc?style=for-the-badge&logoColor=white" alt="Let's talk"/>
 </div>
 
-## Contribution Graph
-![Pacman Contribution Graph](https://raw.githubusercontent.com/JLNerecina/JLNerecina/output/pacman-contribution-graph.svg?v1)
