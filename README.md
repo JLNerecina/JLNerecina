@@ -71,11 +71,50 @@
 
 ## 💼 About Me
 
-Hello! I'm a versatile **designer**, **web developer**, and **database specialist** focused on delivering high-quality, user-centered solutions.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007BFF&center=true&vCenter=true&width=435&lines=Designer;Web+Developer;Database+Specialist;Problem+Solver" alt="Typing SVG" />
+</p>
 
-I enjoy turning ideas into responsive websites, robust Java applications, insightful data visualizations, and professional documents.
+---
 
-Passionate about the full development lifecycle — from wireframing and agile planning to clean code and pixel-perfect design. Excited to collaborate!
+<table align="center" border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👋 Hello World!</h3>
+      I'm a versatile <b>creative technologist</b> focused on delivering high-quality, user-centered solutions. I bridge the gap between <b>aesthetic design</b> and <b>robust logic</b>.
+      <br/><br/>
+      🔹 <b>The Mission:</b> Turning complex ideas into responsive websites, high-performance Java apps, and insightful data architectures.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ My Philosophy</h3>
+      <p align="left">
+        <a href="https://github.com/JLNerecina?tab=repositories&q=design"><img src="https://img.shields.io/badge/UI%2FUX-007BFF?style=for-the-badge&logo=figma&logoColor=white" /></a>
+        <a href="https://github.com/JLNerecina?tab=repositories&q=web"><img src="https://img.shields.io/badge/Web_Dev-0A0A0A?style=for-the-badge&logo=javascript&logoColor=007BFF" /></a>
+        <br/>
+        <a href="https://github.com/JLNerecina?tab=repositories&q=database"><img src="https://img.shields.io/badge/Database-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=007BFF" /></a>
+        <a href="https://github.com/JLNerecina?tab=repositories&q=java"><img src="https://img.shields.io/badge/Backend-007BFF?style=for-the-badge&logo=java&logoColor=white" /></a>
+      </p>
+      <i>Click a badge to see my related projects!</i>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚡ Quick Insights
+- 🎨 **Design:** Passionate about wireframing and pixel-perfect layouts.
+- ⚙️ **Agile:** Experienced in full-lifecycle planning and clean code.
+- 📊 **Data:** Specialist in turning raw data into visual stories.
+
+<div align="center">
+  <br/>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Let's_Collaborate-007BFF?style=for-the-badge&logo=mailgun&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=007BFF" />
+  </a>
+</div>
 
 ## 💡 Skills
 
