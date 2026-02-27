@@ -210,24 +210,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-<div align="center">
-
-## ⚙️ Tools & Technologies
-
-| Category | Tech Stack |
-| :--- | :--- |
-| **🎨 Creative** | `Figma` `Photoshop` `Canva` |
-| **🎬 Video** | `CapCut` `Filmora` `KineMaster` |
-| **💻 Dev** | `Java` `JavaScript` `PHP` `HTML/CSS` `VS Code` |
-| **💾 Data** | `SQL` `Lucidchart (ERD)` `R (Tidyverse)` |
-| **🚀 Workflow** | `Git` `GitHub` `Agile` |
-
-<br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
-
 ## 📫 Let's Connect
 
 Connect with me for collaborations or inquiries!
