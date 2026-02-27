@@ -33,26 +33,34 @@
 </div>
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-
-<div align="center">
-  <!-- Contribution Streak (keep as-is, it's working) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JLNerecina&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=005bbb&height=120&section=header&text=Coding%20Activity&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
 
 <div align="center">
-  <!-- Main Stats Card -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=JLNerecina&show_icons=true&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="180"/>
-
-</div>
-
-<div align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JLNerecina&layout=compact&theme=cobalt&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JLNerecina&theme=tokyonight&hide_border=true&stroke=005bbb&background=0a0a0a" alt="GitHub Streak" />
 </div>
 
 <br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=JLNerecina&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0a0a0a&title_color=005bbb&icon_color=005bbb" alt="GitHub Stats" height="185"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JLNerecina&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0a0a0a&title_color=005bbb" alt="Top Languages" height="185"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JLNerecina&bg_color=0a0a0a&color=005bbb&line=005bbb&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
+
+---
 
 
 ## 💼 About Me
