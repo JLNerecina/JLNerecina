@@ -4,12 +4,12 @@
       <td width="55%" align="center" valign="middle" style="padding: 20px;">
         <img src="My Photo.jpg" alt="John Lian R. Nerecina" 
              style="border-radius: 50%; width: 180px; height: 180px; object-fit: cover; border: 5px solid #0066cc; box-shadow: 0 0 25px rgba(0, 102, 204, 0.5); display: block; margin-left: auto; margin-right: auto;">
-        <h1 style="margin-top: 15px; border: none;">John Lian R. Nerecina</h1>
+        <h1 style="margin-top: 15px; border: none; color: #0066cc;">John Lian R. Nerecina</h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0066CC&center=true&vCenter=true&width=400&lines=Designer+%7C+Web+Developer;Database+Specialist;Full-Stack+Enthusiast" alt="Typing SVG" />
         <p><em>Passionate about clean code, beautiful design, and reliable data solutions.</em></p>
         <div style="margin-top: 15px;">
           <a href="mailto:johnliannerecina@gmail.com">
-            <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+            <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=0066cc" alt="Email"/>
           </a>
           <a href="https://www.linkedin.com/in/john-lian-nerecina-042744286/">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -17,9 +17,6 @@
           <a href="https://cjayaniceren.github.io/TestAResume/">
             <img src="https://img.shields.io/badge/Web%20Resume-0066cc?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Resume"/>
           </a>
-        </div>
-        <div style="margin-top: 10px;">
-          <img src="https://img.shields.io/badge/Phone-09055926741-blue?style=flat-square&logo=phone&logoColor=white" alt="Phone"/>
         </div>
       </td>
       <td width="45%" valign="middle" style="line-height: 0;">
@@ -31,7 +28,32 @@
     </tr>
   </table>
 </div>
+
 <br/>
+
+---
+
+## 💼 About Me
+
+<table align="center" border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👋 Versatile Creative Technologist</h3>
+      I am a <b>Designer</b>, <b>Web Developer</b>, and <b>Database Specialist</b> focused on delivering high-quality, user-centered solutions. I enjoy turning complex ideas into responsive websites, robust Java applications, and professional documentation.
+      <br/><br/>
+      ⚡ <b>Focus:</b> Full-lifecycle development — from wireframing to pixel-perfect deployment.
+    </td>
+    <td width="40%" valign="center" align="center">
+      <a href="#"><img src="https://img.shields.io/badge/UI%2FUX-0066cc?style=for-the-badge&logo=figma&logoColor=white" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Web_Dev-0A0A0A?style=for-the-badge&logo=javascript&logoColor=0066cc" /></a>
+      <br/>
+      <a href="#"><img src="https://img.shields.io/badge/Database-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=0066cc" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Backend-0066cc?style=for-the-badge&logo=java&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -67,54 +89,6 @@
 ![Pacman Contribution Graph](https://raw.githubusercontent.com/JLNerecina/JLNerecina/output/pacman-contribution-graph.svg?v1)
 
 ---
-
-
-## 💼 About Me
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007BFF&center=true&vCenter=true&width=435&lines=Designer;Web+Developer;Database+Specialist;Problem+Solver" alt="Typing SVG" />
-</p>
-
----
-
-<table align="center" border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👋 Hello World!</h3>
-      I'm a versatile <b>creative technologist</b> focused on delivering high-quality, user-centered solutions. I bridge the gap between <b>aesthetic design</b> and <b>robust logic</b>.
-      <br/><br/>
-      🔹 <b>The Mission:</b> Turning complex ideas into responsive websites, high-performance Java apps, and insightful data architectures.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛠️ My Philosophy</h3>
-      <p align="left">
-        <a href="https://github.com/JLNerecina?tab=repositories&q=design"><img src="https://img.shields.io/badge/UI%2FUX-007BFF?style=for-the-badge&logo=figma&logoColor=white" /></a>
-        <a href="https://github.com/JLNerecina?tab=repositories&q=web"><img src="https://img.shields.io/badge/Web_Dev-0A0A0A?style=for-the-badge&logo=javascript&logoColor=007BFF" /></a>
-        <br/>
-        <a href="https://github.com/JLNerecina?tab=repositories&q=database"><img src="https://img.shields.io/badge/Database-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=007BFF" /></a>
-        <a href="https://github.com/JLNerecina?tab=repositories&q=java"><img src="https://img.shields.io/badge/Backend-007BFF?style=for-the-badge&logo=java&logoColor=white" /></a>
-      </p>
-      <i>Click a badge to see my related projects!</i>
-    </td>
-  </tr>
-</table>
-
----
-
-### ⚡ Quick Insights
-- 🎨 **Design:** Passionate about wireframing and pixel-perfect layouts.
-- ⚙️ **Agile:** Experienced in full-lifecycle planning and clean code.
-- 📊 **Data:** Specialist in turning raw data into visual stories.
-
-<div align="center">
-  <br/>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Let's_Collaborate-007BFF?style=for-the-badge&logo=mailgun&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=007BFF" />
-  </a>
-</div>
 
 ## 💡 Skills
 
