@@ -117,34 +117,54 @@
 
 ---
 
-## 🛠 Professional Experience
+<div align="center">
+
+## 💼 Professional Experience
+
+</div>
 
 <details>
-<summary><strong>Quality Checker – Consumer RepubliQ Inc.</strong> <em>(Dec 2025 – Present)</em></summary>
+<summary><b><img src="https://img.shields.io/badge/Quality_Checker-005C97?style=flat-square&logo=checkmarx&logoColor=white" /> Consumer RepubliQ Inc.</b> <i>(Dec 2025 – Present)</i></summary>
 
-- Conducted callback audits to verify respondent participation and data accuracy
-- Ensured compliance with ethical protocols and informed consent
-- Managed sensitive PII in line with data privacy regulations
-- Updated databases and provided performance feedback reports to field managers
+<br/>
+
+> [!NOTE]
+> **Core Focus:** Data Integrity & Compliance Management.
+
+* 🎯 **Audit Excellence:** Conducted callback audits to verify respondent participation and data accuracy.
+* ⚖️ **Ethics & Privacy:** Ensured strict compliance with ethical protocols and managed sensitive **PII** under data privacy regulations.
+* 📈 **Reporting:** Updated databases and provided critical performance feedback reports to field managers.
 
 </details>
 
 <details>
-<summary><strong>Phone Call Interviewer – Consumer RepubliQ Inc.</strong> <em>(Feb 2025 – Present)</em></summary>
+<summary><b><img src="https://img.shields.io/badge/Phone_Interviewer-005C97?style=flat-square&logo=googlemeet&logoColor=white" /> Consumer RepubliQ Inc.</b> <i>(Feb 2025 – Present)</i></summary>
 
-- Performed professional phone interviews for market research
-- Documented insights accurately and maintained strict confidentiality
-- Met tight deadlines while ensuring high-quality, reliable data
+<br/>
+
+* 🎙️ **Market Research:** Performed professional phone interviews to extract high-value consumer insights.
+* 🔐 **Confidentiality:** Documented qualitative insights while maintaining 100% data confidentiality.
+* ⏱️ **Efficiency:** Consistently met tight research deadlines without compromising data reliability.
 
 </details>
 
 <details>
-<summary><strong>Part-Time Transcriber – Consumer RepubliQ Inc.</strong> <em>(Nov 2023 – Jan 2025)</em></summary>
+<summary><b><img src="https://img.shields.io/badge/Transcriber-005C97?style=flat-square&logo=audio-technica&logoColor=white" /> Consumer RepubliQ Inc.</b> <i>(Nov 2023 – Jan 2025)</i></summary>
 
-- Transcribed group discussion audio files with high accuracy
-- Delivered under tight deadlines for research projects
+<br/>
+
+* 🎧 **Audio Processing:** Transcribed complex group discussion audio files with a focus on linguistic accuracy.
+* 🚀 **Rapid Turnaround:** Delivered high-volume transcription projects under strict research timelines.
 
 </details>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
+
+---
 
 ## 📖 Education
 
