@@ -59,7 +59,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JLNerecina&bg_color=0a0a0a&color=005bbb&line=005bbb&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
-<p style="color: #8b949e; font-size: 14px; margin: 12px 0 0 0;">
+<p align="center" style="color: #8b949e; font-size: 14px; margin: 12px 0 0 0;">
       Recent activity spike in design patterns & web projects – ~124 contributions in the last year
 </p>
 
