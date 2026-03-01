@@ -89,12 +89,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,mysql,r,vscode,git,github,figma,ps,canva&theme=dark&perline=7" alt="Skills Icons"/>
-</div>
-
-<br/>
-
 ### 🌌 Proficiency Overview
 
 <div align="center">
