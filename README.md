@@ -191,14 +191,14 @@
 
 | Status | Certification | Issued | Verification |
 | :---: | :--- | :---: | :---: |
+| ✨ | **Gemini Certified University Student** <br> _Google for Education_ | Feb 2026 | [![View](https://img.shields.io/badge/View_Badge-005C97?style=for-the-badge&logo=googlegemini&logoColor=white)](https://edu.google.accredible.com/57022643-c739-443f-bba8-7603ff707b76) |
+| 🤖 | **AI for Beginners** <br> _HP Life_ | Feb 2026 | [![View](https://img.shields.io/badge/View_Cert-005C97?style=for-the-badge&logo=hp&logoColor=white)](https://www.life-global.org/certificate/2ce882d9-a24f-4a82-a5e0-759ae0722815) |
 | 🛡️ | **SQL and Relational Databases 101** <br> _Cognitive Class_ | Oct 2024 | [![View](https://img.shields.io/badge/View_Cert-005C97?style=for-the-badge)](https://courses.cognitiveclass.ai/certificates/a6edc39e5d2f45b3aa3892fcd4452ce1) |
 | ☁️ | **OCI 2024 Foundations Associate** <br> _Oracle University_ | Dec 2024 | [![View](https://img.shields.io/badge/View_Badge-005C97?style=for-the-badge&logo=oracle)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=360409B556FF2169F9AFDECC4CBCF6A9FE24E346BB722DF0FDEB236CAFFE50C3) |
 | 📊 | **OCI 2024 Data Foundations** <br> _Oracle University_ | Dec 2024 | [![View](https://img.shields.io/badge/View_Badge-005C97?style=for-the-badge&logo=oracle)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=360409B556FF2169F9AFDECC4CBCF6A94EAF1C227528E89EB6DCAF8E7CC80238) |
 | 🤖 | **OCI 2024 AI Foundations** <br> _Oracle University_ | Dec 2024 | [![View](https://img.shields.io/badge/View_Badge-005C97?style=for-the-badge&logo=oracle)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=ED2FBEE3685EF1E94C370387092C26262966E16DCF99176E051F4A1F7837BEB3) |
 
 </div>
-
-<br/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
