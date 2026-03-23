@@ -117,10 +117,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
-
 <div align="center">
   <h2>🚀 Featured Projects</h2>
   <p style="color: #8b949e; max-width: 700px; line-height: 1.6;">
