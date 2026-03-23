@@ -2,10 +2,6 @@
   <table border="0" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; background-color: #0a0a0a; border-radius: 10px; border: 1px solid #0066cc;">
     <tr>
       <td width="55%" align="center" valign="middle" style="padding: 30px;">
-        <img src="My Photo.jpg" alt="John Lian R. Nerecina" 
-             style="border-radius: 50%; width: 160px; height: 160px; object-fit: cover; border: 4px solid #0066cc; box-shadow: 0 0 20px rgba(0, 102, 204, 0.4);">
-        <h1 style="margin-top: 15px; border: none; color: #0066cc; font-size: 2.2em;">John Lian R. Nerecina</h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0066CC&center=true&vCenter=true&width=400&lines=Designer+%7C+Web+Developer;Database+Specialist;Full-Stack+Enthusiast" alt="Typing SVG" /> 
         <hr style="width: 80%; border: 0.5px solid #333; margin: 20px 0;">
         <p align="center" style="padding: 0 20px; line-height: 1.6;">
           I am a <b>Designer</b>, <b>Web Developer</b>, and <b>Database Specialist</b> focused on delivering high-quality, user-centered solutions. I turn complex ideas into responsive websites and robust applications.
