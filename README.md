@@ -144,11 +144,11 @@
       <div style="display: flex; gap: 12px; flex-wrap: wrap; margin-top: 16px;">
         <a href="https://github.com/JLNerecina/NEU-Library-Visitor-App" target="_blank" 
            style="background: #0066cc; color: white; padding: 10px 18px; border-radius: 8px; text-decoration: none; font-weight: bold; transition: all 0.2s;">
-           View on GitHub →
+           View on GitHub →    
         </a>
         <a href="https://remix-neu-library-visitor-app-230692279419.us-west1.run.app/" target="_blank" 
            style="background: transparent; color: #0066cc; border: 2px solid #0066cc; padding: 10px 18px; border-radius: 8px; text-decoration: none; font-weight: bold; transition: all 0.2s;">
-           Try Live Demo →
+           Try Live Demo →     
         </a>
       </div>
     </div>
@@ -172,31 +172,17 @@
       <div style="display: flex; gap: 12px; flex-wrap: wrap; margin-top: 16px;">
         <a href="https://github.com/JLNerecina/NEU-MOA-Monitoring-System" target="_blank" 
            style="background: #0066cc; color: white; padding: 10px 18px; border-radius: 8px; text-decoration: none; font-weight: bold; transition: all 0.2s;">
-           View on GitHub →
+           View on GitHub →   
         </a>
         <a href="https://neu-moa-monitoring-system-230692279419.us-west1.run.app/" target="_blank" 
            style="background: transparent; color: #0066cc; border: 2px solid #0066cc; padding: 10px 18px; border-radius: 8px; text-decoration: none; font-weight: bold; transition: all 0.2s;">
-           Try Live Demo →
+           Try Live Demo →   
         </a>
       </div>
     </div>
   </div>
 
 </div>
-
-<style>
-  /* Subtle hover animation (GitHub markdown supports limited CSS) */
-  div[style*="max-width: 460px"]:hover {
-    transform: translateY(-8px);
-    box-shadow: 0 16px 40px rgba(0, 102, 204, 0.22);
-    border-color: #0066cc88;
-  }
-  
-  a:hover {
-    opacity: 0.92;
-    transform: scale(1.04);
-  }
-</style>
 
 <p align="center" style="margin: 50px 0; color: #0066cc; font-style: italic;">
   More projects coming soon — always building something useful ✨
