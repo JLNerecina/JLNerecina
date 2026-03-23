@@ -117,7 +117,100 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
+
 <div align="center">
+  <h2>🚀 Featured Projects</h2>
+  <p style="color: #8b949e; max-width: 700px; line-height: 1.6;">
+    Selected works that showcase full-stack development, clean UI/UX, and practical problem-solving for real-world university needs.
+  </p>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 40px 0;">
+  
+  <!-- Project 1 -->
+  <div style="width: 100%; max-width: 460px; background: #0f0f0f; border: 1px solid #0066cc33; border-radius: 16px; overflow: hidden; box-shadow: 0 8px 30px rgba(0, 102, 204, 0.12); transition: all 0.3s ease; position: relative;">
+    <div style="position: relative;">
+      <img src="https://via.placeholder.com/460x260/0a0a0a/0066cc?text=NEU+Library+Visitor+App+Screenshot" 
+           alt="NEU Library Visitor App" 
+           style="width: 100%; height: 240px; object-fit: cover; display: block;">
+      <div style="position: absolute; top: 12px; right: 12px; background: rgba(0, 102, 204, 0.9); color: white; padding: 6px 12px; border-radius: 20px; font-size: 0.8em; font-weight: bold;">
+        Live
+      </div>
+    </div>
+    <div style="padding: 24px 20px;">
+      <h3 style="margin: 0; color: #0066cc; font-size: 1.5em;">NEU Library Visitor App</h3>
+      <p style="color: #a0a0a0; font-size: 0.95em; margin: 8px 0 16px 0; line-height: 1.5;">
+        Modern web application for managing library visitor logs, tracking entries/exits, generating reports, and improving campus library operations with real-time updates.
+      </p>
+      <div style="display: flex; gap: 12px; flex-wrap: wrap; margin-top: 16px;">
+        <a href="https://github.com/JLNerecina/NEU-Library-Visitor-App" target="_blank" 
+           style="background: #0066cc; color: white; padding: 10px 18px; border-radius: 8px; text-decoration: none; font-weight: bold; transition: all 0.2s;">
+           View on GitHub →
+        </a>
+        <a href="https://remix-neu-library-visitor-app-230692279419.us-west1.run.app/" target="_blank" 
+           style="background: transparent; color: #0066cc; border: 2px solid #0066cc; padding: 10px 18px; border-radius: 8px; text-decoration: none; font-weight: bold; transition: all 0.2s;">
+           Try Live Demo →
+        </a>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Project 2 -->
+  <div style="width: 100%; max-width: 460px; background: #0f0f0f; border: 1px solid #0066cc33; border-radius: 16px; overflow: hidden; box-shadow: 0 8px 30px rgba(0, 102, 204, 0.12); transition: all 0.3s ease; position: relative;">
+    <div style="position: relative;">
+      <img src="https://via.placeholder.com/460x260/0a0a0a/0066cc?text=NEU+MOA+Monitoring+System+Screenshot" 
+           alt="NEU MOA Monitoring System" 
+           style="width: 100%; height: 240px; object-fit: cover; display: block;">
+      <div style="position: absolute; top: 12px; right: 12px; background: rgba(0, 102, 204, 0.9); color: white; padding: 6px 12px; border-radius: 20px; font-size: 0.8em; font-weight: bold;">
+        Live
+      </div>
+    </div>
+    <div style="padding: 24px 20px;">
+      <h3 style="margin: 0; color: #0066cc; font-size: 1.5em;">NEU MOA Monitoring System</h3>
+      <p style="color: #a0a0a0; font-size: 0.95em; margin: 8px 0 16px 0; line-height: 1.5;">
+        Comprehensive monitoring dashboard for tracking Memorandum of Agreement (MOA) status, deadlines, partners, and compliance — built to streamline university partnership management.
+      </p>
+      <div style="display: flex; gap: 12px; flex-wrap: wrap; margin-top: 16px;">
+        <a href="https://github.com/JLNerecina/NEU-MOA-Monitoring-System" target="_blank" 
+           style="background: #0066cc; color: white; padding: 10px 18px; border-radius: 8px; text-decoration: none; font-weight: bold; transition: all 0.2s;">
+           View on GitHub →
+        </a>
+        <a href="https://neu-moa-monitoring-system-230692279419.us-west1.run.app/" target="_blank" 
+           style="background: transparent; color: #0066cc; border: 2px solid #0066cc; padding: 10px 18px; border-radius: 8px; text-decoration: none; font-weight: bold; transition: all 0.2s;">
+           Try Live Demo →
+        </a>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<style>
+  /* Subtle hover animation (GitHub markdown supports limited CSS) */
+  div[style*="max-width: 460px"]:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 16px 40px rgba(0, 102, 204, 0.22);
+    border-color: #0066cc88;
+  }
+  
+  a:hover {
+    opacity: 0.92;
+    transform: scale(1.04);
+  }
+</style>
+
+<p align="center" style="margin: 50px 0; color: #0066cc; font-style: italic;">
+  More projects coming soon — always building something useful ✨
+</p>
+
+<div align="center">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
 ## 💼 Professional Experience
 
