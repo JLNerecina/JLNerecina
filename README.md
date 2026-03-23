@@ -132,9 +132,6 @@
       <img src="https://github.com/JLNerecina/JLNerecina/blob/main/NEU%20Library%20Monitoring%20App%20(Student%20Dashboard).png" 
            alt="NEU Library Visitor App" 
            style="width: 100%; object-fit: cover; display: block;">
-      <div style="position: absolute; top: 12px; right: 12px; background: rgba(0, 102, 204, 0.9); color: white; padding: 6px 12px; border-radius: 20px; font-size: 0.8em; font-weight: bold;">
-        Live
-      </div>
     </div>
     <div style="padding: 24px 20px;">
       <h3 style="margin: 0; color: #0066cc; font-size: 1.5em;">NEU Library Visitor App</h3>
@@ -160,9 +157,6 @@
       <img src="https://github.com/JLNerecina/JLNerecina/blob/main/MOA%20(Student%20Dashboard).png" 
            alt="NEU MOA Monitoring System" 
            style="width: 100%; object-fit: cover; display: block;">
-      <div style="position: absolute; top: 12px; right: 12px; background: rgba(0, 102, 204, 0.9); color: white; padding: 6px 12px; border-radius: 20px; font-size: 0.8em; font-weight: bold;">
-        Live
-      </div>
     </div>
     <div style="padding: 24px 20px;">
       <h3 style="margin: 0; color: #0066cc; font-size: 1.5em;">NEU MOA Monitoring System</h3>
