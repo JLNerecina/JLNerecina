@@ -157,7 +157,7 @@
   <!-- Project 2 -->
   <div style="width: 100%; max-width: 460px; background: #0f0f0f; border: 1px solid #0066cc33; border-radius: 16px; overflow: hidden; box-shadow: 0 8px 30px rgba(0, 102, 204, 0.12); transition: all 0.3s ease; position: relative;">
     <div style="position: relative;">
-      <img src="https://via.placeholder.com/460x260/0a0a0a/0066cc?text=NEU+MOA+Monitoring+System+Screenshot" 
+      <img src="https://github.com/JLNerecina/JLNerecina/blob/main/MOA%20(Student%20Dashboard).png" 
            alt="NEU MOA Monitoring System" 
            style="width: 100%; height: 240px; object-fit: cover; display: block;">
       <div style="position: absolute; top: 12px; right: 12px; background: rgba(0, 102, 204, 0.9); color: white; padding: 6px 12px; border-radius: 20px; font-size: 0.8em; font-weight: bold;">
