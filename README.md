@@ -21,25 +21,25 @@
              style="display: block; border-radius: 10px 0 0 10px; width: 100%; height: 420px; object-fit: cover;"
              alt="Work Computer Animation">
       </td>
-      <td width="55%" align="center" valign="middle" style="padding: 30px;">
-        <p align="center" style="padding: 0 20px; line-height: 1.6;">
+      <td width="55%" align="center" valign="middle" style="padding: 45px 35px;">
+        <p align="center" style="padding: 0 20px; line-height: 1.8; font-size: 1.15em;">
           I am a <b>Designer</b>, <b>Web Developer</b>, and <b>Database Specialist</b> focused on delivering high-quality, user-centered solutions. I turn complex ideas into responsive websites and robust applications.
         </p>
-        <div style="margin: 25px 0;">
-          <a href="#"><img src="https://img.shields.io/badge/UI%2FUX-0066cc?style=for-the-badge&logo=figma&logoColor=white" height="25"/></a>
-          <a href="#"><img src="https://img.shields.io/badge/Web_Dev-0A0A0A?style=for-the-badge&logo=javascript&logoColor=0066cc" height="25"/></a>
-          <a href="#"><img src="https://img.shields.io/badge/Database-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=0066cc" height="25"/></a>
-          <a href="#"><img src="https://img.shields.io/badge/Backend-0066cc?style=for-the-badge&logo=java&logoColor=white" height="25"/></a>
+        <div style="margin: 35px 0;">
+          <a href="#"><img src="https://img.shields.io/badge/UI%2FUX-0066cc?style=for-the-badge&logo=figma&logoColor=white" height="38"/></a>
+          <a href="#"><img src="https://img.shields.io/badge/Web_Dev-0A0A0A?style=for-the-badge&logo=javascript&logoColor=0066cc" height="38"/></a>
+          <a href="#"><img src="https://img.shields.io/badge/Database-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=0066cc" height="38"/></a>
+          <a href="#"><img src="https://img.shields.io/badge/Backend-0066cc?style=for-the-badge&logo=java&logoColor=white" height="38"/></a>
         </div>
-        <div style="margin-top: 20px;">
+        <div style="margin-top: 25px;">
           <a href="mailto:johnliannerecina@gmail.com">
-            <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=0066cc" />
+            <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=0066cc" height="38" />
           </a>
           <a href="https://www.linkedin.com/in/john-lian-nerecina-042744286/">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38" />
           </a>
           <a href="https://cjayaniceren.github.io/TestAResume/">
-            <img src="https://img.shields.io/badge/Web%20Resume-0066cc?style=for-the-badge&logo=google-chrome&logoColor=white" />
+            <img src="https://img.shields.io/badge/Web%20Resume-0066cc?style=for-the-badge&logo=google-chrome&logoColor=white" height="38" />
           </a>
         </div>
       </td>
