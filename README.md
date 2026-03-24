@@ -16,7 +16,7 @@
   <table border="0" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; background-color: #0a0a0a; border-radius: 10px; border: 1px solid #0066cc;">
     <tr>
       <td width="45%" valign="middle" style="line-height: 0; padding: 0;">
-        <img src="https://cdn3.emoji.gg/emojis/39033-laptop.gif"
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Wikimania2023_Animated_Sticker_Laptop_01.gif"
              width="100%"
              style="display: block; border-radius: 10px 0 0 10px; width: 100%; height: 420px; object-fit: cover;"
              alt="Work Computer Animation">
