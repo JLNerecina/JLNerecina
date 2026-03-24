@@ -8,7 +8,9 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=48&pause=1000&color=0066CC&center=true&vCenter=true&width=800&lines=Designer+%7C+Web+Developer;Database+Specialist;Full-Stack+Enthusiast" alt="Typing SVG" />
-        <hr style="width: 80%; border: 0.5px solid #333; margin: 20px 0;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
         <p align="center" style="padding: 0 20px; line-height: 1.6;">
           I am a <b>Designer</b>, <b>Web Developer</b>, and <b>Database Specialist</b> focused on delivering high-quality, user-centered solutions. I turn complex ideas into responsive websites and robust applications.
         </p>
