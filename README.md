@@ -11,28 +11,40 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
-        <p align="center" style="padding: 0 20px; line-height: 1.6;">
-          I am a <b>Designer</b>, <b>Web Developer</b>, and <b>Database Specialist</b> focused on delivering high-quality, user-centered solutions. I turn complex ideas into responsive websites and robust applications.
-        </p>
-
-  <div style="margin: 25px 0;">
-    <a href="#"><img src="https://img.shields.io/badge/UI%2FUX-0066cc?style=for-the-badge&logo=figma&logoColor=white" height="25"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Web_Dev-0A0A0A?style=for-the-badge&logo=javascript&logoColor=0066cc" height="25"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Database-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=0066cc" height="25"/></a>
-    <a href="#"><img src="https://img.shields.io/badge/Backend-0066cc?style=for-the-badge&logo=java&logoColor=white" height="25"/></a>
-  </div>
-
-  <div style="margin-top: 20px;">
-    <a href="mailto:johnliannerecina@gmail.com">
-      <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=0066cc" />
-    </a>
-    <a href="https://www.linkedin.com/in/john-lian-nerecina-042744286/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://cjayaniceren.github.io/TestAResume/">
-      <img src="https://img.shields.io/badge/Web%20Resume-0066cc?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    </a>
-  </div>
+<br/>
+       <div align="center">
+  <table border="0" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; background-color: #0a0a0a; border-radius: 10px; border: 1px solid #0066cc;">
+    <tr>
+      <td width="45%" valign="middle" style="line-height: 0; padding: 0;">
+        <img src="https://media.tenor.com/bfOEyTxwK40AAAAM/work-computer.gif"
+             width="100%"
+             style="display: block; border-radius: 10px 0 0 10px; width: 100%; height: 420px; object-fit: cover;"
+             alt="Work Computer Animation">
+      </td>
+      <td width="55%" align="center" valign="middle" style="padding: 30px;">
+        <p align="center" style="padding: 0 20px; line-height: 1.6;">
+          I am a <b>Designer</b>, <b>Web Developer</b>, and <b>Database Specialist</b> focused on delivering high-quality, user-centered solutions. I turn complex ideas into responsive websites and robust applications.
+        </p>
+        <div style="margin: 25px 0;">
+          <a href="#"><img src="https://img.shields.io/badge/UI%2FUX-0066cc?style=for-the-badge&logo=figma&logoColor=white" height="25"/></a>
+          <a href="#"><img src="https://img.shields.io/badge/Web_Dev-0A0A0A?style=for-the-badge&logo=javascript&logoColor=0066cc" height="25"/></a>
+          <a href="#"><img src="https://img.shields.io/badge/Database-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=0066cc" height="25"/></a>
+          <a href="#"><img src="https://img.shields.io/badge/Backend-0066cc?style=for-the-badge&logo=java&logoColor=white" height="25"/></a>
+        </div>
+        <div style="margin-top: 20px;">
+          <a href="mailto:johnliannerecina@gmail.com">
+            <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=0066cc" />
+          </a>
+          <a href="https://www.linkedin.com/in/john-lian-nerecina-042744286/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+          </a>
+          <a href="https://cjayaniceren.github.io/TestAResume/">
+            <img src="https://img.shields.io/badge/Web%20Resume-0066cc?style=for-the-badge&logo=google-chrome&logoColor=white" />
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 <br/>
 
