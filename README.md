@@ -16,7 +16,7 @@
   <table border="0" width="100%" cellpadding="0" cellspacing="0" style="border-collapse: collapse; background-color: #0a0a0a; border-radius: 10px; border: 1px solid #0066cc;">
     <tr>
       <td width="45%" valign="middle" style="line-height: 0; padding: 0;">
-        <img src="https://media.tenor.com/bfOEyTxwK40AAAAM/work-computer.gif"
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyNm8wNXY2bW8wZmNqeHd3YjZ0bHMwbWQybWJzc3g4enZremZjcW1ueSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JsE9qckiYyVClQ5bY2/giphy.gif"
              width="100%"
              style="display: block; border-radius: 10px 0 0 10px; width: 100%; height: 420px; object-fit: cover;"
              alt="Work Computer Animation">
