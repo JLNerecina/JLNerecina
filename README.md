@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JLNerecina/JLNerecina/main/Profile_Nerecina.gif"
+  <img src="https://github.com/JLNerecina/JLNerecina/blob/main/Profile_Nerecina.gif"
        width="100%"
        style="display: block; border-radius: 10px; border: 1px solid #0066cc; box-shadow: 0 0 20px rgba(0, 102, 204, 0.3);"
        alt="John Lian R. Nerecina - Custom Animated Profile Banner">
