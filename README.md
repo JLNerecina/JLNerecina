@@ -7,9 +7,11 @@
 <br/>
 
 <div align="center">
-  <p style="max-width: 700px; padding: 0 20px; line-height: 1.6; margin: 0 auto;">
-    I am a <b>Designer</b>, <b>Web Developer</b>, and <b>Database Specialist</b> focused on delivering high-quality, user-centered solutions. I turn complex ideas into responsive websites and robust applications.
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0066CC&center=true&vCenter=true&width=400&lines=Designer+%7C+Web+Developer;Database+Specialist;Full-Stack+Enthusiast" alt="Typing SVG" />
+        <hr style="width: 80%; border: 0.5px solid #333; margin: 20px 0;">
+        <p align="center" style="padding: 0 20px; line-height: 1.6;">
+          I am a <b>Designer</b>, <b>Web Developer</b>, and <b>Database Specialist</b> focused on delivering high-quality, user-centered solutions. I turn complex ideas into responsive websites and robust applications.
+        </p>
 
   <div style="margin: 25px 0;">
     <a href="#"><img src="https://img.shields.io/badge/UI%2FUX-0066cc?style=for-the-badge&logo=figma&logoColor=white" height="25"/></a>
