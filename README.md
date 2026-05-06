@@ -92,7 +92,7 @@
 ## 💡 Tech Stack & Expertise
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,mysql,r,vscode,git,github,figma,ps,canva&theme=dark&perline=7" alt="Skills Icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,php,laravel,java,mysql,supabase,firebase,r,vscode,git,github,figma,ps,canva,kali&theme=dark&perline=7" alt="Skills Icons"/>
 </div>
 
 <br/>
@@ -103,11 +103,14 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-005C97?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-005C97?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/PHP-4F5D95?style=for-the-badge&logo=php&logoColor=white) |
-| **Software Eng.** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) `OOP` `Design Patterns` `Data Structures` `Algorithms` |
-| **Data Science** | ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) `tidyverse` `ggplot2` `Statistical Analysis` |
-| **Design & Media** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-005C97?style=for-the-badge&logo=mysql&logoColor=white) `ER Diagrams` `Relational Design` |
+| **Frontend Development** | ![HTML5](https://img.shields.io/badge/HTML5-005C97?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-005C97?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| **Backend & Software Eng.**| ![PHP](https://img.shields.io/badge/PHP-4F5D95?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) `OOP` `Data Structures` `Algorithms` |
+| **AI Orchestration** | ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge) `Antigravity` `Google Stitch` |
+| **BaaS & Databases** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-005C97?style=for-the-badge&logo=mysql&logoColor=white) `HeidiSQL` |
+| **Cybersecurity & OS** | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![VirtualBox](https://img.shields.io/badge/Oracle_VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white) `Metasploitable` |
+| **Data Science & Analytics**| ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white) `tidyverse` `ggplot2` |
+| **Local Environments** | ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white) `Laragon` |
+| **Design, UI/UX & PM** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) `Project Libre` |
 
 </div>
 
