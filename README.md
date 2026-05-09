@@ -115,13 +115,59 @@
 
 ### 🛠️ Strategic Skillset
 
-> [!TIP]
-> **Engineering Mindset:** Specialized in Design Patterns including **Factory**, **Singleton**, **Observer**, and **Facade** to build scalable, clean software architectures.
+> [!NOTE]
+> **Clean Architecture Advocate:** Specializing in Design Patterns—**Factory**, **Singleton**, **Observer**, **Facade**—to craft scalable, maintainable systems. From frontend polish to backend resilience.
 
-* **⚡ Rapid Design:** Expertise in high-fidelity UI/UX (Figma) and professional print layouts (Resume/Books).
-* **📊 Data-Driven:** Crafting insights using R for advanced reporting and visualization.
-* **🎬 Content Creation:** Video post-production via CapCut, Filmora, and KineMaster.
-* **🤝 Management:** Agile workflow enthusiast with a focus on interpersonal communication and research interviewing.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
+
+#### ⚡ Core Competencies
+
+<table>
+  <tr>
+    <td width="50%">
+      <b>🎨 Full-Stack Architecture</b><br/>
+      React + Tailwind frontends with Laravel/PHP backends. Designing systems that scale from prototype to production, with clean separation of concerns.
+    </td>
+    <td width="50%">
+      <b>🔐 Security-First Mindset</b><br/>
+      Burp Suite penetration testing, Kali Linux hardening. Building defensible applications from the ground up, not as an afterthought.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>📊 Data Intelligence</b><br/>
+      Statistical analysis in R (tidyverse, ggplot2). Extracting actionable insights from raw data, visualized for stakeholders.
+    </td>
+    <td width="50%">
+      <b>🚀 Rapid Prototyping</b><br/>
+      Vite + TypeScript for blazing-fast dev cycles. High-fidelity UI/UX in Figma, shipping ideas from concept to code in hours.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>🤖 AI-Augmented Development</b><br/>
+      Claude Code, Google AI Studio integration. Leveraging modern AI tools to amplify productivity without compromising code quality.
+    </td>
+    <td width="50%">
+      <b>🎬 Storytelling & Communication</b><br/>
+      Design thinking meets technical execution. Creating compelling narratives through code, visuals, and documentation.
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
+
+#### 🧠 Why This Matters
+
+- **Design Patterns** → Scalable, maintainable code that doesn't bite you 6 months later
+- **Full-Stack Fluency** → Understanding how frontend decisions ripple through your backend  
+- **Security Awareness** → Because "it works on my machine" doesn't mean it's secure
+- **Data-Driven** → Making decisions based on evidence, not intuition
+- **Speed & Quality** → Not choosing between shipping fast and shipping well
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
