@@ -23,7 +23,7 @@
       </td>
       <td width="55%" align="center" valign="middle" style="padding: 25px 25px;">
         <p align="center" style="padding: 0 15px; line-height: 1.65; font-size: 1.12em; margin-bottom: 22px;">
-          I am a <b>Designer</b>, <b>Web Developer</b>, and <b>Database Specialist</b> focused on delivering high-quality, user-centered solutions. I turn complex ideas into responsive websites and robust applications.
+          I am a <b>Designer</b>, <b>Web Developer</b>, <b>Software Engineer</b> and <b>Database Specialist</b> focused on delivering high-quality, user-centered solutions. I turn complex ideas into responsive websites and robust applications.
         </p>
         <div style="margin: 22px 0;">
           <a href="#"><img src="https://img.shields.io/badge/UI%2FUX-0066cc?style=for-the-badge&logo=figma&logoColor=white" height="34"/></a>
