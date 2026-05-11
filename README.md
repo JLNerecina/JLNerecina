@@ -84,7 +84,6 @@
 
 
 <img src = https://raw.githubusercontent.com/JLNerecina/JLNerecina/output/pacman-contribution-graph.svg>
-<script src="https://cdn.jsdelivr.net/npm/pacman-contribution-graph/dist/pacman-contribution-graph.min.js"></script>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
