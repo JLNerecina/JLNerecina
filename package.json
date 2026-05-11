@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "pacman-contribution-graph": "^3.2.1"
+  }
+}
