@@ -2,7 +2,7 @@ name: Generate Pacman Game Blue Theme
 
 on:
   schedule:
-    # Run automatically every 24 hours
+    # Run automatically every 24 hours at midnight UTC
     - cron: "0 0 * * *"
   workflow_dispatch: # Allows manual triggering
   push:
@@ -17,27 +17,44 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate pacman-contribution-graph.svg
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          
           # Dark & Blue Theme Configuration
-          background_color: "#0d1117"
-          color_empty: "#161b22"
-          color_low: "#08306b"
-          color_medium: "#2171b5"
-          color_high: "#6baed6"
-          color_max: "#deebf7"
-          pacman_color: "#58a6ff"
-          point_color: "#ffffff"
-          # Ensures the file is put in the folder the next step expects
+          background_color: "#0d1117"    # Dark GitHub background
+          color_empty: "#161b22"         # Darkest blue-gray (no contributions)
+          color_low: "#08306b"           # Deep navy blue (low activity)
+          color_medium: "#2171b5"        # Medium blue (medium activity)
+          color_high: "#6baed6"          # Bright blue (high activity)
+          color_max: "#deebf7"           # Light blue (very high activity)
+          pacman_color: "#58a6ff"        # Bright blue Pacman
+          point_color: "#ffffff"         # White points/dots
+          
+          # Output directory for generated files
           output_dir: dist
 
-      # Push the generated SVG to the output branch
-      - name: push pacman-contribution-graph.svg to the output branch
+      - name: Verify output file
+        run: |
+          if [ -f dist/pacman-contribution-graph.svg ]; then
+            echo "✅ SVG generated successfully"
+            ls -lh dist/
+          else
+            echo "❌ SVG generation failed"
+            exit 1
+          fi
+
+      - name: Push pacman-contribution-graph.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "🎮 Update Pacman contribution graph"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
