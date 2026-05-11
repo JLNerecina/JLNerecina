@@ -163,11 +163,34 @@
 
 #### 🧠 Why This Matters
 
-- **Design Patterns** → Scalable, maintainable code that doesn't bite you 6 months later
-- **Full-Stack Fluency** → Understanding how frontend decisions ripple through your backend  
-- **Security Awareness** → Because "it works on my machine" doesn't mean it's secure
-- **Data-Driven** → Making decisions based on evidence, not intuition
-- **Speed & Quality** → Not choosing between shipping fast and shipping well
+<table>
+  <tr>
+    <td width="50%">
+      <b style="color: #0066CC;">🎨 Design Patterns</b><br/>
+      Scalable, maintainable code that doesn't bite you 6 months later
+    </td>
+    <td width="50%">
+      <b style="color: #0066CC;">🔗 Full-Stack Fluency</b><br/>
+      Understanding how frontend decisions ripple through your backend
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b style="color: #0066CC;">🔐 Security Awareness</b><br/>
+      Because "it works on my machine" doesn't mean it's secure
+    </td>
+    <td width="50%">
+      <b style="color: #0066CC;">📊 Data-Driven</b><br/>
+      Making decisions based on evidence, not intuition
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <b style="color: #0066CC;">⚡ Speed & Quality</b><br/>
+      Not choosing between shipping fast and shipping well
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
