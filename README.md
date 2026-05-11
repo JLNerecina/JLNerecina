@@ -83,7 +83,8 @@
 </p>
 
 
-[![Generate Pacman Game Blue Theme](https://github.com/JLNerecina/JLNerecina/actions/workflows/pacman.yml/badge.svg)](https://github.com/JLNerecina/JLNerecina/actions/workflows/pacman.yml)
+[Pacman Contribution Graph](https://raw.githubusercontent.com/JLNerecina/JLNerecina/output/pacman-contribution-graph.svg?v1)
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
