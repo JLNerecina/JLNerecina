@@ -83,7 +83,7 @@
 </p>
 
 
-[Pacman Contribution Graph](https://raw.githubusercontent.com/JLNerecina/JLNerecina/output/pacman-contribution-graph.svg)
+<img src = https://raw.githubusercontent.com/JLNerecina/JLNerecina/output/pacman-contribution-graph.svg>
 
 
 <p align="center">
